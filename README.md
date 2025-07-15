@@ -8,3 +8,5 @@ In 2_step.ipynb we do the training using labels obtained by the zero-shot approa
 In 3_step.ipynb we do the final classification using the model trained in 2_step.ipynb.
 
 In Network_creation.ipynb we create the network for each company, considering links between users replying to a submission and authors of the submission, and between users replying to a comment and authors of the comment.
+
+In Model.ipynb there is the code with the definition of the diffusion model on the network and both its calibration and validation.
