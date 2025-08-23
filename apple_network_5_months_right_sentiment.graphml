@@ -1,0 +1,3976 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="node" attr.name="Sentiment" attr.type="long" />
+  <key id="d0" for="node" attr.name="Sentiment" attr.type="int" />
+  <graph edgedefault="undirected">
+    <node id="ZeusHoldsMyJockstrap">
+      <data key="d0">1</data>
+    </node>
+    <node id="sava_texas">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pzychotix">
+      <data key="d0">0</data>
+    </node>
+    <node id="d3rp1ng">
+      <data key="d0">0</data>
+    </node>
+    <node id="aseffefeef">
+      <data key="d0">0</data>
+    </node>
+    <node id="sewr">
+      <data key="d0">1</data>
+    </node>
+    <node id="blah_blah_STFU">
+      <data key="d0">1</data>
+    </node>
+    <node id="fobfromgermany">
+      <data key="d0">0</data>
+    </node>
+    <node id="jwmsp">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dplymkr88">
+      <data key="d0">1</data>
+    </node>
+    <node id="f4therfucker">
+      <data key="d0">1</data>
+    </node>
+    <node id="Indefinitely_not">
+      <data key="d0">0</data>
+    </node>
+    <node id="r4ndpaulsbrilloballs">
+      <data key="d0">0</data>
+    </node>
+    <node id="PrimePairs">
+      <data key="d0">1</data>
+    </node>
+    <node id="ipoofood">
+      <data key="d0">1</data>
+    </node>
+    <node id="StockJock-e">
+      <data key="d1">0</data>
+    </node>
+    <node id="Arksaw">
+      <data key="d0">1</data>
+    </node>
+    <node id="jordan0day">
+      <data key="d0">1</data>
+    </node>
+    <node id="aglassonion">
+      <data key="d0">1</data>
+    </node>
+    <node id="mdatwood">
+      <data key="d0">1</data>
+    </node>
+    <node id="OhEmGeeZ">
+      <data key="d0">1</data>
+    </node>
+    <node id="protox88">
+      <data key="d0">1</data>
+    </node>
+    <node id="HertzToupee">
+      <data key="d0">0</data>
+    </node>
+    <node id="kieranmullen">
+      <data key="d0">1</data>
+    </node>
+    <node id="pavpatel">
+      <data key="d0">1</data>
+    </node>
+    <node id="stan93">
+      <data key="d0">1</data>
+    </node>
+    <node id="cnac8709">
+      <data key="d0">1</data>
+    </node>
+    <node id="robertcsugar">
+      <data key="d0">1</data>
+    </node>
+    <node id="Zeltino">
+      <data key="d0">1</data>
+    </node>
+    <node id="xoctor">
+      <data key="d0">1</data>
+    </node>
+    <node id="Ralph_Waldo_Emerson">
+      <data key="d0">1</data>
+    </node>
+    <node id="holysherm">
+      <data key="d1">0</data>
+    </node>
+    <node id="peter_bolton">
+      <data key="d1">0</data>
+    </node>
+    <node id="Ed_Raket">
+      <data key="d0">1</data>
+    </node>
+    <node id="Zizizizz">
+      <data key="d0">1</data>
+    </node>
+    <node id="frohedadrine">
+      <data key="d0">1</data>
+    </node>
+    <node id="oashito">
+      <data key="d0">1</data>
+    </node>
+    <node id="PeanutButterRedDirt">
+      <data key="d0">1</data>
+    </node>
+    <node id="lucius42">
+      <data key="d0">0</data>
+    </node>
+    <node id="Jabronez">
+      <data key="d0">0</data>
+    </node>
+    <node id="miscsubs">
+      <data key="d0">1</data>
+    </node>
+    <node id="Manofur">
+      <data key="d0">1</data>
+    </node>
+    <node id="wostestwillis">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cdub100">
+      <data key="d0">1</data>
+    </node>
+    <node id="JeepBike">
+      <data key="d0">0</data>
+    </node>
+    <node id="Bagrant1">
+      <data key="d0">1</data>
+    </node>
+    <node id="PostNationalism">
+      <data key="d0">1</data>
+    </node>
+    <node id="discussthrower_">
+      <data key="d0">1</data>
+    </node>
+    <node id="flux8">
+      <data key="d1">1</data>
+    </node>
+    <node id="bringindabacon">
+      <data key="d0">1</data>
+    </node>
+    <node id="Zurevu">
+      <data key="d1">0</data>
+    </node>
+    <node id="Sancer">
+      <data key="d0">1</data>
+    </node>
+    <node id="jeebidy">
+      <data key="d0">1</data>
+    </node>
+    <node id="memius">
+      <data key="d0">1</data>
+    </node>
+    <node id="spsheridan">
+      <data key="d0">1</data>
+    </node>
+    <node id="bwik">
+      <data key="d0">0</data>
+    </node>
+    <node id="UhhPhrasing">
+      <data key="d0">1</data>
+    </node>
+    <node id="Chortlier">
+      <data key="d0">1</data>
+    </node>
+    <node id="yo1k2tog">
+      <data key="d0">1</data>
+    </node>
+    <node id="JustShortIt">
+      <data key="d0">0</data>
+    </node>
+    <node id="x0rcist">
+      <data key="d0">1</data>
+    </node>
+    <node id="paulx441">
+      <data key="d0">0</data>
+    </node>
+    <node id="HomoErectus3">
+      <data key="d0">1</data>
+    </node>
+    <node id="Soldierducky">
+      <data key="d0">1</data>
+    </node>
+    <node id="rahjah">
+      <data key="d0">1</data>
+    </node>
+    <node id="joe_g_2324">
+      <data key="d0">0</data>
+    </node>
+    <node id="BeatArmy99">
+      <data key="d0">0</data>
+    </node>
+    <node id="lawstudent2">
+      <data key="d0">1</data>
+    </node>
+    <node id="MaleWizard">
+      <data key="d0">1</data>
+    </node>
+    <node id="Drew0054">
+      <data key="d0">1</data>
+    </node>
+    <node id="Vithar">
+      <data key="d0">0</data>
+    </node>
+    <node id="I_hate_alot_a_lot">
+      <data key="d0">0</data>
+    </node>
+    <node id="MindOfJay">
+      <data key="d0">0</data>
+    </node>
+    <node id="monkeydrunker">
+      <data key="d0">1</data>
+    </node>
+    <node id="MrAlahuAkbar">
+      <data key="d0">1</data>
+    </node>
+    <node id="BroasisMusic">
+      <data key="d0">1</data>
+    </node>
+    <node id="Aguacaterri">
+      <data key="d0">0</data>
+    </node>
+    <node id="JROD725">
+      <data key="d0">0</data>
+    </node>
+    <node id="orca9999">
+      <data key="d0">0</data>
+    </node>
+    <node id="kingoftheinterwebz">
+      <data key="d0">1</data>
+    </node>
+    <node id="traderguy1172">
+      <data key="d0">0</data>
+    </node>
+    <node id="KeenanKolarik">
+      <data key="d0">0</data>
+    </node>
+    <node id="rudenavigator">
+      <data key="d0">0</data>
+    </node>
+    <node id="Witcrew">
+      <data key="d0">0</data>
+    </node>
+    <node id="syntheticcdo">
+      <data key="d0">1</data>
+    </node>
+    <node id="whoismarkowitz">
+      <data key="d0">0</data>
+    </node>
+    <node id="Keppana">
+      <data key="d0">1</data>
+    </node>
+    <node id="partiallypro">
+      <data key="d0">1</data>
+    </node>
+    <node id="papajohn56">
+      <data key="d0">1</data>
+    </node>
+    <node id="arlettedetten">
+      <data key="d0">1</data>
+    </node>
+    <node id="Im_a_fuckin_asshole">
+      <data key="d0">1</data>
+    </node>
+    <node id="psypher82">
+      <data key="d0">1</data>
+    </node>
+    <node id="L_Cranston_Shadow">
+      <data key="d0">1</data>
+    </node>
+    <node id="ffflllyyyeeerrr">
+      <data key="d1">1</data>
+    </node>
+    <node id="mapoftasmania">
+      <data key="d0">1</data>
+    </node>
+    <node id="default_accounts">
+      <data key="d1">1</data>
+    </node>
+    <node id="cygtfm">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pendulum">
+      <data key="d0">0</data>
+    </node>
+    <node id="woodbuck">
+      <data key="d0">1</data>
+    </node>
+    <node id="DaphneDK">
+      <data key="d0">1</data>
+    </node>
+    <node id="finderzkeepers">
+      <data key="d0">0</data>
+    </node>
+    <node id="heatpad">
+      <data key="d0">1</data>
+    </node>
+    <node id="10311978">
+      <data key="d0">0</data>
+    </node>
+    <node id="OscarZetaAcosta">
+      <data key="d0">0</data>
+    </node>
+    <node id="FercPolo">
+      <data key="d1">0</data>
+    </node>
+    <node id="andersondylan087">
+      <data key="d0">1</data>
+    </node>
+    <node id="midgetginger">
+      <data key="d0">0</data>
+    </node>
+    <node id="fakehalo">
+      <data key="d0">1</data>
+    </node>
+    <node id="blackeagle613">
+      <data key="d0">0</data>
+    </node>
+    <node id="Smeghead74">
+      <data key="d0">1</data>
+    </node>
+    <node id="CustomerHarvey">
+      <data key="d0">1</data>
+    </node>
+    <node id="mariox19">
+      <data key="d0">1</data>
+    </node>
+    <node id="brummm">
+      <data key="d0">0</data>
+    </node>
+    <node id="RanthersReallyRuck">
+      <data key="d0">0</data>
+    </node>
+    <node id="Tamer_">
+      <data key="d0">1</data>
+    </node>
+    <node id="snutr">
+      <data key="d0">0</data>
+    </node>
+    <node id="bluemagic124">
+      <data key="d0">0</data>
+    </node>
+    <node id="PAforGA">
+      <data key="d0">1</data>
+    </node>
+    <node id="Theyta">
+      <data key="d0">0</data>
+    </node>
+    <node id="texasyeehaw">
+      <data key="d0">1</data>
+    </node>
+    <node id="osbournecox2">
+      <data key="d0">1</data>
+    </node>
+    <node id="Trifectard">
+      <data key="d0">1</data>
+    </node>
+    <node id="_ass_burgers_">
+      <data key="d0">1</data>
+    </node>
+    <node id="Amorphica">
+      <data key="d0">0</data>
+    </node>
+    <node id="Vycid">
+      <data key="d0">1</data>
+    </node>
+    <node id="augieb14">
+      <data key="d0">0</data>
+    </node>
+    <node id="UMDZete">
+      <data key="d0">0</data>
+    </node>
+    <node id="kungpaaao">
+      <data key="d0">0</data>
+    </node>
+    <node id="tommyboy319">
+      <data key="d0">1</data>
+    </node>
+    <node id="LogicalTom">
+      <data key="d0">0</data>
+    </node>
+    <node id="bobsaget91">
+      <data key="d0">1</data>
+    </node>
+    <node id="sixtyt3">
+      <data key="d0">0</data>
+    </node>
+    <node id="jkroberts13">
+      <data key="d0">1</data>
+    </node>
+    <node id="fsyollo">
+      <data key="d0">1</data>
+    </node>
+    <node id="unjung">
+      <data key="d0">0</data>
+    </node>
+    <node id="Lapelli">
+      <data key="d0">1</data>
+    </node>
+    <node id="up2zo">
+      <data key="d0">1</data>
+    </node>
+    <node id="vbchrist">
+      <data key="d0">1</data>
+    </node>
+    <node id="xSimoHayha">
+      <data key="d0">0</data>
+    </node>
+    <node id="neezy112">
+      <data key="d0">1</data>
+    </node>
+    <node id="dg10050">
+      <data key="d0">0</data>
+    </node>
+    <node id="Billy-theghost-Mays">
+      <data key="d0">1</data>
+    </node>
+    <node id="xcomv01">
+      <data key="d0">0</data>
+    </node>
+    <node id="firejuggler74">
+      <data key="d0">1</data>
+    </node>
+    <node id="Javbw">
+      <data key="d0">0</data>
+    </node>
+    <node id="Scarsdale_Vibe">
+      <data key="d0">1</data>
+    </node>
+    <node id="1541drive">
+      <data key="d0">1</data>
+    </node>
+    <node id="Maindeathwagon">
+      <data key="d0">0</data>
+    </node>
+    <node id="cloudone">
+      <data key="d0">0</data>
+    </node>
+    <node id="MagicWishMonkey">
+      <data key="d0">1</data>
+    </node>
+    <node id="giovannibernini">
+      <data key="d0">1</data>
+    </node>
+    <node id="Grooveman07">
+      <data key="d0">0</data>
+    </node>
+    <node id="zeebyj">
+      <data key="d0">1</data>
+    </node>
+    <node id="theonly101">
+      <data key="d0">0</data>
+    </node>
+    <node id="JonnyWicked">
+      <data key="d0">0</data>
+    </node>
+    <node id="AoF-Vagrant">
+      <data key="d0">1</data>
+    </node>
+    <node id="39spidey">
+      <data key="d0">1</data>
+    </node>
+    <node id="robvas">
+      <data key="d0">1</data>
+    </node>
+    <node id="AdrianneOverfelt">
+      <data key="d0">0</data>
+    </node>
+    <node id="danweber">
+      <data key="d0">1</data>
+    </node>
+    <node id="skipper14">
+      <data key="d0">1</data>
+    </node>
+    <node id="ParadiseCity1995">
+      <data key="d0">1</data>
+    </node>
+    <node id="anthonymckay">
+      <data key="d0">1</data>
+    </node>
+    <node id="ichivictus">
+      <data key="d0">1</data>
+    </node>
+    <node id="php-rocks-lol">
+      <data key="d0">1</data>
+    </node>
+    <node id="swaglikewags">
+      <data key="d0">1</data>
+    </node>
+    <node id="King-in-Council">
+      <data key="d0">0</data>
+    </node>
+    <node id="kenlubin">
+      <data key="d0">1</data>
+    </node>
+    <node id="thenewguyonreddit">
+      <data key="d0">1</data>
+    </node>
+    <node id="workhorse_investor">
+      <data key="d0">1</data>
+    </node>
+    <node id="Shonuff8">
+      <data key="d0">1</data>
+    </node>
+    <node id="IAmBadAtInternet">
+      <data key="d0">1</data>
+    </node>
+    <node id="culturefan">
+      <data key="d0">1</data>
+    </node>
+    <node id="frgvn">
+      <data key="d0">1</data>
+    </node>
+    <node id="SchoolboyKyubey">
+      <data key="d0">1</data>
+    </node>
+    <node id="californian_">
+      <data key="d0">0</data>
+    </node>
+    <node id="Investing_Account">
+      <data key="d0">1</data>
+    </node>
+    <node id="MMath">
+      <data key="d0">0</data>
+    </node>
+    <node id="unoquickquestion">
+      <data key="d0">0</data>
+    </node>
+    <node id="Woopsyeah">
+      <data key="d0">1</data>
+    </node>
+    <node id="ZeroCool2u">
+      <data key="d0">1</data>
+    </node>
+    <node id="TTPrograms">
+      <data key="d0">1</data>
+    </node>
+    <node id="PartagasSD4">
+      <data key="d0">0</data>
+    </node>
+    <node id="joeG2324">
+      <data key="d0">0</data>
+    </node>
+    <node id="Draiko">
+      <data key="d0">0</data>
+    </node>
+    <node id="ohrlee">
+      <data key="d0">0</data>
+    </node>
+    <node id="khalsa_fauj">
+      <data key="d0">1</data>
+    </node>
+    <node id="everythingsmental">
+      <data key="d0">1</data>
+    </node>
+    <node id="MoneyMonk5">
+      <data key="d0">1</data>
+    </node>
+    <node id="IdreamARiver">
+      <data key="d0">1</data>
+    </node>
+    <node id="pcopley">
+      <data key="d0">1</data>
+    </node>
+    <node id="sseccus">
+      <data key="d0">0</data>
+    </node>
+    <node id="rfgrunt">
+      <data key="d0">0</data>
+    </node>
+    <node id="abczyx123">
+      <data key="d0">0</data>
+    </node>
+    <node id="hockey915">
+      <data key="d0">0</data>
+    </node>
+    <node id="nojacket">
+      <data key="d0">1</data>
+    </node>
+    <node id="Nathaniel_Higgers">
+      <data key="d0">1</data>
+    </node>
+    <node id="CallMeOatmeal">
+      <data key="d0">1</data>
+    </node>
+    <node id="djmemphis">
+      <data key="d0">1</data>
+    </node>
+    <node id="Badbaseball">
+      <data key="d0">1</data>
+    </node>
+    <node id="XGranny_SmithX1">
+      <data key="d0">1</data>
+    </node>
+    <node id="sebko">
+      <data key="d0">0</data>
+    </node>
+    <node id="chewedbacca">
+      <data key="d0">0</data>
+    </node>
+    <node id="PolkyPolk">
+      <data key="d0">1</data>
+    </node>
+    <node id="schammy">
+      <data key="d0">0</data>
+    </node>
+    <node id="NPPraxis">
+      <data key="d0">1</data>
+    </node>
+    <node id="cuddlesy">
+      <data key="d0">0</data>
+    </node>
+    <node id="UniverseCity">
+      <data key="d0">0</data>
+    </node>
+    <node id="vishalc16">
+      <data key="d0">1</data>
+    </node>
+    <node id="LunchPistol">
+      <data key="d0">1</data>
+    </node>
+    <node id="int32_t">
+      <data key="d0">1</data>
+    </node>
+    <node id="txholdup">
+      <data key="d0">0</data>
+    </node>
+    <node id="semsr">
+      <data key="d0">1</data>
+    </node>
+    <node id="slightly_dehydrated">
+      <data key="d0">1</data>
+    </node>
+    <node id="jerryondrums">
+      <data key="d0">0</data>
+    </node>
+    <node id="Wreak_Peace">
+      <data key="d0">0</data>
+    </node>
+    <node id="UngratefulPeon">
+      <data key="d0">0</data>
+    </node>
+    <node id="johnnyblac">
+      <data key="d0">0</data>
+    </node>
+    <node id="LzTangeL">
+      <data key="d0">0</data>
+    </node>
+    <node id="jtkelly86">
+      <data key="d0">0</data>
+    </node>
+    <node id="CautiousToaster">
+      <data key="d0">1</data>
+    </node>
+    <node id="ScriptPro">
+      <data key="d0">1</data>
+    </node>
+    <node id="brazillion">
+      <data key="d0">1</data>
+    </node>
+    <node id="moe10">
+      <data key="d0">0</data>
+    </node>
+    <node id="liekdisifucried">
+      <data key="d0">1</data>
+    </node>
+    <node id="mjohnson1975">
+      <data key="d0">0</data>
+    </node>
+    <node id="SquareRoot">
+      <data key="d0">0</data>
+    </node>
+    <node id="rymarc">
+      <data key="d0">1</data>
+    </node>
+    <node id="vanguard_alpha">
+      <data key="d0">1</data>
+    </node>
+    <node id="TypicalVillain">
+      <data key="d0">0</data>
+    </node>
+    <node id="brunes">
+      <data key="d0">0</data>
+    </node>
+    <node id="stringerbell">
+      <data key="d0">1</data>
+    </node>
+    <node id="bryter-later">
+      <data key="d0">1</data>
+    </node>
+    <node id="madeituprightnow">
+      <data key="d0">1</data>
+    </node>
+    <node id="Se7en_speed">
+      <data key="d0">0</data>
+    </node>
+    <node id="cogman10">
+      <data key="d0">1</data>
+    </node>
+    <node id="tomoniki">
+      <data key="d0">0</data>
+    </node>
+    <node id="JPOnion">
+      <data key="d0">0</data>
+    </node>
+    <node id="ahminus">
+      <data key="d0">1</data>
+    </node>
+    <node id="249ba36000029bbe9749">
+      <data key="d0">1</data>
+    </node>
+    <node id="ajaykumaryada">
+      <data key="d0">1</data>
+    </node>
+    <node id="vietiscool">
+      <data key="d0">1</data>
+    </node>
+    <node id="floor-pi">
+      <data key="d0">0</data>
+    </node>
+    <node id="Areumdaun">
+      <data key="d0">0</data>
+    </node>
+    <node id="cantusethemain">
+      <data key="d0">1</data>
+    </node>
+    <node id="docbauies">
+      <data key="d0">1</data>
+    </node>
+    <node id="00OO00">
+      <data key="d0">0</data>
+    </node>
+    <node id="brucebwang">
+      <data key="d0">1</data>
+    </node>
+    <node id="WillTypeForKarma">
+      <data key="d0">1</data>
+    </node>
+    <node id="nows">
+      <data key="d0">1</data>
+    </node>
+    <node id="TerpZ">
+      <data key="d0">1</data>
+    </node>
+    <node id="Chodrick">
+      <data key="d0">0</data>
+    </node>
+    <node id="misteryub">
+      <data key="d0">1</data>
+    </node>
+    <node id="DSTxtcy">
+      <data key="d0">1</data>
+    </node>
+    <node id="throawaydev">
+      <data key="d0">0</data>
+    </node>
+    <node id="Ostracized">
+      <data key="d0">0</data>
+    </node>
+    <node id="btmc">
+      <data key="d0">1</data>
+    </node>
+    <node id="atcoyou">
+      <data key="d0">1</data>
+    </node>
+    <node id="legalinvestor">
+      <data key="d0">0</data>
+    </node>
+    <node id="antwan718">
+      <data key="d0">1</data>
+    </node>
+    <node id="casualoptionstrader">
+      <data key="d0">0</data>
+    </node>
+    <node id="YounggMoney">
+      <data key="d0">0</data>
+    </node>
+    <node id="sscspagftphbpdh17">
+      <data key="d0">1</data>
+    </node>
+    <node id="tootie">
+      <data key="d0">0</data>
+    </node>
+    <node id="Aricherstate">
+      <data key="d0">1</data>
+    </node>
+    <node id="fysoIo">
+      <data key="d0">1</data>
+    </node>
+    <node id="hivoltage815">
+      <data key="d0">0</data>
+    </node>
+    <node id="180south">
+      <data key="d0">0</data>
+    </node>
+    <node id="ihatechange">
+      <data key="d0">1</data>
+    </node>
+    <node id="NewtonianCooking">
+      <data key="d0">1</data>
+    </node>
+    <node id="DeeDee_Z">
+      <data key="d0">1</data>
+    </node>
+    <node id="kaji823">
+      <data key="d0">1</data>
+    </node>
+    <node id="Auzy">
+      <data key="d0">0</data>
+    </node>
+    <node id="righty">
+      <data key="d0">1</data>
+    </node>
+    <node id="toddbbot">
+      <data key="d0">0</data>
+    </node>
+    <node id="OrganicTreats">
+      <data key="d0">1</data>
+    </node>
+    <node id="luopjiggy">
+      <data key="d0">1</data>
+    </node>
+    <node id="ghostabdi">
+      <data key="d0">1</data>
+    </node>
+    <node id="dafones">
+      <data key="d0">0</data>
+    </node>
+    <node id="Valtyr8">
+      <data key="d0">0</data>
+    </node>
+    <node id="dunker">
+      <data key="d0">1</data>
+    </node>
+    <node id="Zeedude22">
+      <data key="d0">1</data>
+    </node>
+    <node id="purpl3_dinosaur">
+      <data key="d0">0</data>
+    </node>
+    <node id="belovedkid">
+      <data key="d0">1</data>
+    </node>
+    <node id="closingbell">
+      <data key="d0">0</data>
+    </node>
+    <node id="justthrowmeout">
+      <data key="d0">1</data>
+    </node>
+    <node id="LonghornzR4Real">
+      <data key="d0">1</data>
+    </node>
+    <node id="DuckTouchr">
+      <data key="d0">0</data>
+    </node>
+    <node id="neofatalist">
+      <data key="d0">1</data>
+    </node>
+    <node id="theHomers">
+      <data key="d0">1</data>
+    </node>
+    <node id="andrewrsorkin">
+      <data key="d0">0</data>
+    </node>
+    <node id="Datsyukdangelz">
+      <data key="d0">1</data>
+    </node>
+    <node id="playingAAPL">
+      <data key="d0">1</data>
+    </node>
+    <node id="laroadwarrior">
+      <data key="d0">0</data>
+    </node>
+    <node id="KrayonFisher">
+      <data key="d0">0</data>
+    </node>
+    <node id="uh-okay-I-guess">
+      <data key="d0">1</data>
+    </node>
+    <node id="decimalplaces">
+      <data key="d0">1</data>
+    </node>
+    <node id="jldugger">
+      <data key="d0">0</data>
+    </node>
+    <node id="Mattabeedeez">
+      <data key="d0">0</data>
+    </node>
+    <node id="cantstoplaughin">
+      <data key="d0">1</data>
+    </node>
+    <node id="mkhural">
+      <data key="d0">1</data>
+    </node>
+    <node id="leevs11">
+      <data key="d0">0</data>
+    </node>
+    <node id="tkornfeld">
+      <data key="d0">1</data>
+    </node>
+    <node id="GhostofTrundle">
+      <data key="d0">1</data>
+    </node>
+    <node id="hydrocyanide">
+      <data key="d0">1</data>
+    </node>
+    <node id="FishyFred">
+      <data key="d1">1</data>
+    </node>
+    <node id="chipmunk7000">
+      <data key="d0">0</data>
+    </node>
+    <node id="nwredditguy">
+      <data key="d1">1</data>
+    </node>
+    <node id="cowboyhaze">
+      <data key="d0">1</data>
+    </node>
+    <node id="Eriamjh1138">
+      <data key="d0">0</data>
+    </node>
+    <node id="SpyWhat">
+      <data key="d0">0</data>
+    </node>
+    <node id="AllanBz">
+      <data key="d1">1</data>
+    </node>
+    <node id="Theta_Zero">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cock_unblocker">
+      <data key="d0">1</data>
+    </node>
+    <node id="evolvedtomato">
+      <data key="d0">1</data>
+    </node>
+    <node id="mikesetera">
+      <data key="d0">1</data>
+    </node>
+    <node id="CrasyMike">
+      <data key="d0">1</data>
+    </node>
+    <node id="dudewithpants">
+      <data key="d0">0</data>
+    </node>
+    <node id="getridofwires">
+      <data key="d0">0</data>
+    </node>
+    <node id="mint_eye">
+      <data key="d0">0</data>
+    </node>
+    <node id="AndrewS42">
+      <data key="d0">1</data>
+    </node>
+    <node id="ddplz">
+      <data key="d0">1</data>
+    </node>
+    <node id="DukeCanada">
+      <data key="d0">1</data>
+    </node>
+    <node id="VotedOut">
+      <data key="d0">0</data>
+    </node>
+    <node id="bigbadberry3">
+      <data key="d0">0</data>
+    </node>
+    <node id="AWoodenFishOnWheels">
+      <data key="d0">0</data>
+    </node>
+    <node id="trout007">
+      <data key="d0">1</data>
+    </node>
+    <node id="stop_the_broats">
+      <data key="d0">0</data>
+    </node>
+    <node id="iamsorrydontban">
+      <data key="d0">1</data>
+    </node>
+    <node id="jonesrr">
+      <data key="d0">0</data>
+    </node>
+    <node id="farzyness">
+      <data key="d0">0</data>
+    </node>
+    <node id="poophead_">
+      <data key="d0">1</data>
+    </node>
+    <node id="HenkieVV">
+      <data key="d0">0</data>
+    </node>
+    <node id="helpmelearn20">
+      <data key="d0">1</data>
+    </node>
+    <node id="ConnorBoyd">
+      <data key="d0">1</data>
+    </node>
+    <node id="kernel_picnic">
+      <data key="d0">1</data>
+    </node>
+    <node id="StoneCloud">
+      <data key="d0">1</data>
+    </node>
+    <node id="indigoreality">
+      <data key="d1">0</data>
+    </node>
+    <node id="MpVpRb">
+      <data key="d0">0</data>
+    </node>
+    <node id="oppy1984">
+      <data key="d0">0</data>
+    </node>
+    <node id="sirdevinstine">
+      <data key="d0">0</data>
+    </node>
+    <node id="DRANKLE">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fap-0-matic">
+      <data key="d0">1</data>
+    </node>
+    <node id="PurpleTulip9">
+      <data key="d0">1</data>
+    </node>
+    <node id="jwarsenal9">
+      <data key="d0">0</data>
+    </node>
+    <node id="funkeepickle">
+      <data key="d0">1</data>
+    </node>
+    <node id="gypsy4">
+      <data key="d0">1</data>
+    </node>
+    <node id="UTFishOutOfWater">
+      <data key="d0">1</data>
+    </node>
+    <node id="rs2k2">
+      <data key="d0">1</data>
+    </node>
+    <node id="keegs13">
+      <data key="d0">0</data>
+    </node>
+    <node id="c0mputar">
+      <data key="d0">1</data>
+    </node>
+    <node id="WhiteBoythatCantJump">
+      <data key="d0">0</data>
+    </node>
+    <node id="sad_bug_killer">
+      <data key="d0">1</data>
+    </node>
+    <node id="Namika">
+      <data key="d0">1</data>
+    </node>
+    <node id="dude_abide">
+      <data key="d0">0</data>
+    </node>
+    <node id="patriciapreseren">
+      <data key="d0">1</data>
+    </node>
+    <node id="mohi666">
+      <data key="d0">1</data>
+    </node>
+    <node id="jlew24asu">
+      <data key="d0">1</data>
+    </node>
+    <node id="Zifnab25">
+      <data key="d0">1</data>
+    </node>
+    <node id="FlexboxAiken">
+      <data key="d0">0</data>
+    </node>
+    <node id="an_internet_denizen">
+      <data key="d0">1</data>
+    </node>
+    <node id="abrikos">
+      <data key="d0">0</data>
+    </node>
+    <node id="joeflux">
+      <data key="d0">0</data>
+    </node>
+    <node id="Freedom247365">
+      <data key="d0">1</data>
+    </node>
+    <node id="stealthzeus">
+      <data key="d0">1</data>
+    </node>
+    <node id="SMc-Twelve">
+      <data key="d0">1</data>
+    </node>
+    <node id="Phalanges_Sex">
+      <data key="d0">0</data>
+    </node>
+    <node id="vxbet">
+      <data key="d0">0</data>
+    </node>
+    <node id="cipherous">
+      <data key="d0">1</data>
+    </node>
+    <node id="djbdom">
+      <data key="d0">1</data>
+    </node>
+    <node id="Iperzampem0">
+      <data key="d0">1</data>
+    </node>
+    <node id="richmonds1">
+      <data key="d0">1</data>
+    </node>
+    <node id="compounding">
+      <data key="d0">1</data>
+    </node>
+    <node id="chowfoon">
+      <data key="d0">1</data>
+    </node>
+    <node id="UserNumber42">
+      <data key="d0">1</data>
+    </node>
+    <node id="gujupike">
+      <data key="d0">1</data>
+    </node>
+    <node id="SomeGuyInOttawa">
+      <data key="d0">1</data>
+    </node>
+    <node id="ilovetabasco">
+      <data key="d0">1</data>
+    </node>
+    <node id="SecondChanceUsername">
+      <data key="d1">0</data>
+    </node>
+    <node id="nekrad">
+      <data key="d0">1</data>
+    </node>
+    <node id="wontfixnow">
+      <data key="d0">0</data>
+    </node>
+    <node id="baby_mike">
+      <data key="d0">1</data>
+    </node>
+    <node id="SwiftProgrammer">
+      <data key="d0">0</data>
+    </node>
+    <node id="Banker928">
+      <data key="d0">0</data>
+    </node>
+    <node id="smokeyjay">
+      <data key="d0">1</data>
+    </node>
+    <node id="shortbitcoin">
+      <data key="d0">1</data>
+    </node>
+    <node id="questionanswersquest">
+      <data key="d0">1</data>
+    </node>
+    <node id="brian21">
+      <data key="d0">1</data>
+    </node>
+    <node id="ExtremelyQualified">
+      <data key="d0">0</data>
+    </node>
+    <node id="cqm">
+      <data key="d0">0</data>
+    </node>
+    <node id="fortworthfroggie">
+      <data key="d0">1</data>
+    </node>
+    <node id="SoemthingFunny">
+      <data key="d0">1</data>
+    </node>
+    <node id="stopsayingsoccer">
+      <data key="d0">0</data>
+    </node>
+    <node id="ms7787">
+      <data key="d0">0</data>
+    </node>
+    <node id="wanmoar">
+      <data key="d0">1</data>
+    </node>
+    <node id="TBP_Doxxing_Victim">
+      <data key="d0">0</data>
+    </node>
+    <node id="munky9002">
+      <data key="d0">0</data>
+    </node>
+    <node id="ZGiSH">
+      <data key="d0">0</data>
+    </node>
+    <node id="SuccessAndSerenity">
+      <data key="d0">0</data>
+    </node>
+    <node id="phys1cist">
+      <data key="d0">1</data>
+    </node>
+    <node id="fiercelyfriendly">
+      <data key="d0">1</data>
+    </node>
+    <node id="YouveBeenGundlached">
+      <data key="d0">1</data>
+    </node>
+    <node id="fsyolo">
+      <data key="d0">1</data>
+    </node>
+    <node id="FranzNO3">
+      <data key="d0">1</data>
+    </node>
+    <node id="realizedvariance">
+      <data key="d0">1</data>
+    </node>
+    <node id="nilamo">
+      <data key="d0">0</data>
+    </node>
+    <node id="NotDaPunk">
+      <data key="d0">1</data>
+    </node>
+    <node id="taelor">
+      <data key="d0">0</data>
+    </node>
+    <node id="prithvisri">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fantasticfatcat">
+      <data key="d0">0</data>
+    </node>
+    <node id="Error400BadRequest">
+      <data key="d0">1</data>
+    </node>
+    <node id="KexanR">
+      <data key="d0">0</data>
+    </node>
+    <node id="saml01">
+      <data key="d0">1</data>
+    </node>
+    <node id="westmontblvd">
+      <data key="d0">1</data>
+    </node>
+    <node id="investinggoals">
+      <data key="d0">1</data>
+    </node>
+    <node id="Kashik">
+      <data key="d0">1</data>
+    </node>
+    <node id="Heavenfall">
+      <data key="d0">0</data>
+    </node>
+    <node id="MrPotatoSmegma">
+      <data key="d0">0</data>
+    </node>
+    <node id="haxbro14">
+      <data key="d0">1</data>
+    </node>
+    <node id="badwolf">
+      <data key="d0">1</data>
+    </node>
+    <node id="glove0102">
+      <data key="d0">0</data>
+    </node>
+    <node id="Ton86">
+      <data key="d0">1</data>
+    </node>
+    <node id="Reggie-Middleton">
+      <data key="d0">1</data>
+    </node>
+    <node id="buickandolds">
+      <data key="d0">0</data>
+    </node>
+    <node id="mercyandgrace">
+      <data key="d0">0</data>
+    </node>
+    <node id="poopmast">
+      <data key="d0">1</data>
+    </node>
+    <node id="RemmyColl">
+      <data key="d0">0</data>
+    </node>
+    <node id="HateWalmartWolverine">
+      <data key="d0">0</data>
+    </node>
+    <node id="cb_hanson">
+      <data key="d0">0</data>
+    </node>
+    <node id="crayfordo151">
+      <data key="d1">1</data>
+    </node>
+    <node id="polnikes">
+      <data key="d0">1</data>
+    </node>
+    <node id="Delkomatic">
+      <data key="d0">1</data>
+    </node>
+    <node id="AnonymousBallsack">
+      <data key="d0">1</data>
+    </node>
+    <node id="Zetavu">
+      <data key="d0">1</data>
+    </node>
+    <node id="irfankd">
+      <data key="d0">0</data>
+    </node>
+    <node id="nowaibro">
+      <data key="d0">1</data>
+    </node>
+    <node id="kjuneja">
+      <data key="d1">1</data>
+    </node>
+    <node id="actuallyinvesting">
+      <data key="d0">0</data>
+    </node>
+    <node id="el_el">
+      <data key="d0">1</data>
+    </node>
+    <node id="Bemuzed">
+      <data key="d0">0</data>
+    </node>
+    <node id="tomsun100">
+      <data key="d0">1</data>
+    </node>
+    <node id="typicalwsbnoob">
+      <data key="d0">1</data>
+    </node>
+    <node id="dvdmovie1a">
+      <data key="d0">1</data>
+    </node>
+    <node id="zimm0who0net">
+      <data key="d0">0</data>
+    </node>
+    <node id="Jawbr8kr">
+      <data key="d0">0</data>
+    </node>
+    <node id="mirinrustles">
+      <data key="d0">0</data>
+    </node>
+    <node id="MrJC666">
+      <data key="d0">1</data>
+    </node>
+    <node id="BountyHunting4Trolls">
+      <data key="d0">0</data>
+    </node>
+    <node id="MILES_FOR_TITS">
+      <data key="d0">0</data>
+    </node>
+    <node id="thebedshow">
+      <data key="d0">1</data>
+    </node>
+    <node id="whythehellamihere">
+      <data key="d0">1</data>
+    </node>
+    <node id="nolancamp2">
+      <data key="d0">1</data>
+    </node>
+    <node id="akmalhot">
+      <data key="d0">0</data>
+    </node>
+    <node id="i960">
+      <data key="d0">0</data>
+    </node>
+    <node id="roue_">
+      <data key="d0">1</data>
+    </node>
+    <node id="mship">
+      <data key="d0">0</data>
+    </node>
+    <node id="2diceMisplaced">
+      <data key="d0">1</data>
+    </node>
+    <node id="veninvillifishy">
+      <data key="d0">0</data>
+    </node>
+    <node id="moumouren">
+      <data key="d0">1</data>
+    </node>
+    <node id="laminak">
+      <data key="d0">0</data>
+    </node>
+    <node id="Gizlo">
+      <data key="d0">1</data>
+    </node>
+    <node id="foggybottom">
+      <data key="d0">1</data>
+    </node>
+    <node id="ENGR_Demosthenes">
+      <data key="d0">0</data>
+    </node>
+    <node id="QU3NT4R">
+      <data key="d0">1</data>
+    </node>
+    <node id="twentytwodividedby7">
+      <data key="d0">0</data>
+    </node>
+    <node id="very_username">
+      <data key="d0">1</data>
+    </node>
+    <node id="help_so_much_money">
+      <data key="d0">1</data>
+    </node>
+    <node id="Its_All_In_The_Game">
+      <data key="d0">0</data>
+    </node>
+    <node id="Platanokid">
+      <data key="d0">1</data>
+    </node>
+    <node id="e_step">
+      <data key="d0">1</data>
+    </node>
+    <node id="hfutrell">
+      <data key="d0">1</data>
+    </node>
+    <node id="peace_love_mcl">
+      <data key="d0">1</data>
+    </node>
+    <node id="TakeTheShotStaaaan">
+      <data key="d0">1</data>
+    </node>
+    <node id="FireOpal">
+      <data key="d0">1</data>
+    </node>
+    <node id="nickik">
+      <data key="d0">1</data>
+    </node>
+    <node id="potato1">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAINSAW_VASECTOMY">
+      <data key="d0">1</data>
+    </node>
+    <node id="NathanDickson">
+      <data key="d0">1</data>
+    </node>
+    <node id="reacher235711">
+      <data key="d0">0</data>
+    </node>
+    <node id="iamgroleo">
+      <data key="d0">1</data>
+    </node>
+    <node id="bartturner">
+      <data key="d1">1</data>
+    </node>
+    <node id="skankingmike">
+      <data key="d0">0</data>
+    </node>
+    <node id="Ahnteis">
+      <data key="d0">1</data>
+    </node>
+    <node id="taa_123">
+      <data key="d0">0</data>
+    </node>
+    <node id="FISTFUCKMYDICKHOLE">
+      <data key="d0">1</data>
+    </node>
+    <node id="GoldenChrysus">
+      <data key="d0">1</data>
+    </node>
+    <node id="DougDons">
+      <data key="d0">1</data>
+    </node>
+    <node id="EmuTribe">
+      <data key="d0">1</data>
+    </node>
+    <node id="eigenman">
+      <data key="d0">1</data>
+    </node>
+    <node id="thatoneguys">
+      <data key="d0">1</data>
+    </node>
+    <node id="MyFleetingDream">
+      <data key="d0">1</data>
+    </node>
+    <node id="johnyma22">
+      <data key="d0">1</data>
+    </node>
+    <node id="13104598210">
+      <data key="d0">1</data>
+    </node>
+    <node id="KSUWildcats">
+      <data key="d0">0</data>
+    </node>
+    <node id="benevolinsolence">
+      <data key="d0">1</data>
+    </node>
+    <node id="I_FUCK_UP_RECIPES">
+      <data key="d0">1</data>
+    </node>
+    <node id="JerkyChew">
+      <data key="d0">0</data>
+    </node>
+    <node id="civex">
+      <data key="d0">0</data>
+    </node>
+    <node id="Ertaipt">
+      <data key="d0">0</data>
+    </node>
+    <node id="MustacheDanger">
+      <data key="d0">1</data>
+    </node>
+    <node id="SanDiegoDude">
+      <data key="d0">1</data>
+    </node>
+    <node id="MeowMixExpress">
+      <data key="d0">0</data>
+    </node>
+    <node id="madking8">
+      <data key="d0">0</data>
+    </node>
+    <node id="Resin8">
+      <data key="d0">1</data>
+    </node>
+    <node id="tekdemon">
+      <data key="d0">1</data>
+    </node>
+    <node id="BrainInAJar">
+      <data key="d0">0</data>
+    </node>
+    <node id="SelvedgeLeopard">
+      <data key="d0">0</data>
+    </node>
+    <node id="THUMB5UP">
+      <data key="d0">1</data>
+    </node>
+    <node id="Insanepenguin91">
+      <data key="d0">1</data>
+    </node>
+    <node id="adammjam">
+      <data key="d1">0</data>
+    </node>
+    <node id="wolfram184">
+      <data key="d0">0</data>
+    </node>
+    <node id="ray1202">
+      <data key="d0">1</data>
+    </node>
+    <node id="Deductions">
+      <data key="d0">1</data>
+    </node>
+    <node id="1Kanevil">
+      <data key="d0">1</data>
+    </node>
+    <node id="dabasegawd">
+      <data key="d0">1</data>
+    </node>
+    <node id="TheRealAntacular">
+      <data key="d1">1</data>
+    </node>
+    <node id="FlappyBored">
+      <data key="d0">0</data>
+    </node>
+    <node id="JPoor_The2nd">
+      <data key="d0">1</data>
+    </node>
+    <node id="hedgefundaspirations">
+      <data key="d0">0</data>
+    </node>
+    <node id="stockspikes">
+      <data key="d0">1</data>
+    </node>
+    <node id="PortfolioCancer">
+      <data key="d0">0</data>
+    </node>
+    <node id="bonafidebob">
+      <data key="d0">1</data>
+    </node>
+    <node id="Metacog_Drivel">
+      <data key="d0">0</data>
+    </node>
+    <node id="JamesAQuintero">
+      <data key="d1">1</data>
+    </node>
+    <node id="gmtjr">
+      <data key="d0">0</data>
+    </node>
+    <node id="berlinbrown">
+      <data key="d0">1</data>
+    </node>
+    <node id="i-invest">
+      <data key="d0">0</data>
+    </node>
+    <node id="bonghits96">
+      <data key="d0">0</data>
+    </node>
+    <node id="PlCKLES">
+      <data key="d0">1</data>
+    </node>
+    <node id="tmiw">
+      <data key="d0">1</data>
+    </node>
+    <node id="oTHEWHITERABBIT">
+      <data key="d0">0</data>
+    </node>
+    <node id="thompo">
+      <data key="d0">1</data>
+    </node>
+    <node id="ViperRT10Matt">
+      <data key="d0">1</data>
+    </node>
+    <node id="internet_poster">
+      <data key="d0">1</data>
+    </node>
+    <node id="Huntred">
+      <data key="d0">1</data>
+    </node>
+    <node id="doougle">
+      <data key="d0">1</data>
+    </node>
+    <node id="yolotrader">
+      <data key="d0">0</data>
+    </node>
+    <node id="Nexum">
+      <data key="d0">1</data>
+    </node>
+    <node id="TominatorXX">
+      <data key="d0">0</data>
+    </node>
+    <node id="absoluteskeptic">
+      <data key="d0">0</data>
+    </node>
+    <node id="aardvarkious">
+      <data key="d0">1</data>
+    </node>
+    <node id="fruit_stand_employee">
+      <data key="d0">0</data>
+    </node>
+    <node id="losemoneywithenemies">
+      <data key="d0">1</data>
+    </node>
+    <node id="Zedlok">
+      <data key="d0">0</data>
+    </node>
+    <node id="blueliner17">
+      <data key="d0">1</data>
+    </node>
+    <node id="catsfive">
+      <data key="d0">1</data>
+    </node>
+    <node id="kirklennon">
+      <data key="d1">1</data>
+    </node>
+    <node id="kngnk">
+      <data key="d0">1</data>
+    </node>
+    <node id="Investlurker235">
+      <data key="d0">0</data>
+    </node>
+    <node id="Arve">
+      <data key="d0">0</data>
+    </node>
+    <node id="LongChocolateMilk">
+      <data key="d0">1</data>
+    </node>
+    <node id="GT_Spec_B">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fittyakaferrari">
+      <data key="d0">1</data>
+    </node>
+    <node id="McBeers">
+      <data key="d0">0</data>
+    </node>
+    <node id="liketheherp">
+      <data key="d0">1</data>
+    </node>
+    <node id="kickstand">
+      <data key="d0">1</data>
+    </node>
+    <node id="jarrit0s">
+      <data key="d1">0</data>
+    </node>
+    <node id="rimlogger">
+      <data key="d1">0</data>
+    </node>
+    <node id="poopascoopa69">
+      <data key="d0">1</data>
+    </node>
+    <node id="redrobot5050">
+      <data key="d0">1</data>
+    </node>
+    <node id="eetsumkaus">
+      <data key="d0">1</data>
+    </node>
+    <node id="jaghataikhan">
+      <data key="d0">0</data>
+    </node>
+    <node id="seeallgood">
+      <data key="d1">0</data>
+    </node>
+    <node id="TheRama">
+      <data key="d0">0</data>
+    </node>
+    <node id="wutangfin">
+      <data key="d0">1</data>
+    </node>
+    <node id="cookingboy">
+      <data key="d0">0</data>
+    </node>
+    <node id="RUS_Hustler">
+      <data key="d0">1</data>
+    </node>
+    <node id="ur_all_nubs">
+      <data key="d0">1</data>
+    </node>
+    <node id="HealthcareEconomist3">
+      <data key="d0">1</data>
+    </node>
+    <node id="jonnygrifff">
+      <data key="d0">0</data>
+    </node>
+    <node id="zawmbie5">
+      <data key="d1">0</data>
+    </node>
+    <node id="hoyeay">
+      <data key="d1">1</data>
+    </node>
+    <node id="matts534">
+      <data key="d0">1</data>
+    </node>
+    <node id="usb_lighter">
+      <data key="d0">0</data>
+    </node>
+    <node id="skratsda">
+      <data key="d0">1</data>
+    </node>
+    <node id="JokerPlay">
+      <data key="d1">0</data>
+    </node>
+    <node id="EthicalConcerns">
+      <data key="d0">1</data>
+    </node>
+    <node id="cuteman">
+      <data key="d0">1</data>
+    </node>
+    <node id="tabswhore">
+      <data key="d0">0</data>
+    </node>
+    <node id="rockyrainy">
+      <data key="d0">1</data>
+    </node>
+    <node id="tubaleiter">
+      <data key="d0">1</data>
+    </node>
+    <node id="BenCasey1">
+      <data key="d0">1</data>
+    </node>
+    <node id="shortAAPL">
+      <data key="d0">0</data>
+    </node>
+    <node id="GaryBarton">
+      <data key="d0">1</data>
+    </node>
+    <node id="enassif">
+      <data key="d0">1</data>
+    </node>
+    <node id="guhhuh">
+      <data key="d0">0</data>
+    </node>
+    <node id="RemarkablyGoodTaste">
+      <data key="d0">0</data>
+    </node>
+    <node id="nemoomen">
+      <data key="d0">0</data>
+    </node>
+    <node id="LegSpinner">
+      <data key="d0">0</data>
+    </node>
+    <node id="jcy">
+      <data key="d0">1</data>
+    </node>
+    <node id="KingSnuggleMuffin">
+      <data key="d0">1</data>
+    </node>
+    <node id="IDontCareForTurtles">
+      <data key="d0">1</data>
+    </node>
+    <node id="DanaBlue">
+      <data key="d0">0</data>
+    </node>
+    <node id="cyancynic">
+      <data key="d0">0</data>
+    </node>
+    <node id="-kingmaker">
+      <data key="d0">1</data>
+    </node>
+    <node id="Benjammin822">
+      <data key="d0">1</data>
+    </node>
+    <node id="sellbotics">
+      <data key="d0">1</data>
+    </node>
+    <node id="AnimeEd">
+      <data key="d0">1</data>
+    </node>
+    <node id="wefarrell">
+      <data key="d0">0</data>
+    </node>
+    <node id="knatxxx">
+      <data key="d0">0</data>
+    </node>
+    <node id="shazoocow">
+      <data key="d0">1</data>
+    </node>
+    <node id="montood">
+      <data key="d0">0</data>
+    </node>
+    <node id="jsm2727">
+      <data key="d0">0</data>
+    </node>
+    <node id="only1parkjisung">
+      <data key="d0">1</data>
+    </node>
+    <node id="trutommo">
+      <data key="d0">1</data>
+    </node>
+    <node id="mrMouseR">
+      <data key="d1">0</data>
+    </node>
+    <node id="dramamoose">
+      <data key="d0">1</data>
+    </node>
+    <node id="ShellInTheGhost">
+      <data key="d1">1</data>
+    </node>
+    <node id="mirzawalrus">
+      <data key="d0">0</data>
+    </node>
+    <node id="cheriot">
+      <data key="d0">1</data>
+    </node>
+    <node id="EnergyMonkey">
+      <data key="d0">0</data>
+    </node>
+    <node id="splat313">
+      <data key="d0">1</data>
+    </node>
+    <node id="illuminerdi">
+      <data key="d0">1</data>
+    </node>
+    <node id="saywhaaaat">
+      <data key="d0">0</data>
+    </node>
+    <node id="jsblk3000">
+      <data key="d0">1</data>
+    </node>
+    <node id="kraetos">
+      <data key="d0">0</data>
+    </node>
+    <node id="Gaolbreaker">
+      <data key="d0">1</data>
+    </node>
+    <node id="sethklarman">
+      <data key="d0">1</data>
+    </node>
+    <node id="nemoTheKid">
+      <data key="d0">1</data>
+    </node>
+    <node id="Angry_Retail_Banker">
+      <data key="d0">0</data>
+    </node>
+    <node id="jonfla">
+      <data key="d0">0</data>
+    </node>
+    <node id="PCGamingOppression">
+      <data key="d0">1</data>
+    </node>
+    <node id="Clown_Shoe">
+      <data key="d0">1</data>
+    </node>
+    <node id="Radico87">
+      <data key="d0">0</data>
+    </node>
+    <node id="Charmander_Throwaway">
+      <data key="d0">1</data>
+    </node>
+    <node id="SDtoSF">
+      <data key="d0">1</data>
+    </node>
+    <node id="howmanypoints">
+      <data key="d0">1</data>
+    </node>
+    <node id="Simon_Inaki">
+      <data key="d0">1</data>
+    </node>
+    <node id="xlledx">
+      <data key="d0">0</data>
+    </node>
+    <node id="w1_m2">
+      <data key="d0">0</data>
+    </node>
+    <node id="foulpudding">
+      <data key="d0">1</data>
+    </node>
+    <node id="likwid07">
+      <data key="d0">0</data>
+    </node>
+    <node id="NYKyle610">
+      <data key="d0">0</data>
+    </node>
+    <node id="luffintlimme">
+      <data key="d0">1</data>
+    </node>
+    <node id="thatsatell">
+      <data key="d0">1</data>
+    </node>
+    <node id="RTiger">
+      <data key="d1">1</data>
+    </node>
+    <node id="thebutz">
+      <data key="d0">0</data>
+    </node>
+    <node id="ichosethis">
+      <data key="d0">0</data>
+    </node>
+    <node id="yuzirnayme">
+      <data key="d0">1</data>
+    </node>
+    <node id="BryGuy81">
+      <data key="d0">1</data>
+    </node>
+    <node id="jartek">
+      <data key="d0">0</data>
+    </node>
+    <node id="savantness">
+      <data key="d0">0</data>
+    </node>
+    <node id="tobygreenbacking">
+      <data key="d0">1</data>
+    </node>
+    <node id="thatsmyaibo">
+      <data key="d0">1</data>
+    </node>
+    <node id="never_noob">
+      <data key="d0">0</data>
+    </node>
+    <node id="footlong24seven">
+      <data key="d0">1</data>
+    </node>
+    <node id="IronTek">
+      <data key="d0">1</data>
+    </node>
+    <node id="ManillaVan">
+      <data key="d0">0</data>
+    </node>
+    <node id="BRazenVenture">
+      <data key="d0">1</data>
+    </node>
+    <node id="Stoodius">
+      <data key="d0">0</data>
+    </node>
+    <node id="graciouspatty">
+      <data key="d0">1</data>
+    </node>
+    <node id="ifailatusernames">
+      <data key="d0">0</data>
+    </node>
+    <node id="spasmystic">
+      <data key="d0">1</data>
+    </node>
+    <node id="IAmNotYourBoss">
+      <data key="d0">0</data>
+    </node>
+    <node id="LemonHerb">
+      <data key="d0">1</data>
+    </node>
+    <node id="NZzzzzzz">
+      <data key="d0">0</data>
+    </node>
+    <node id="iJeff">
+      <data key="d0">1</data>
+    </node>
+    <node id="viperabyss">
+      <data key="d0">1</data>
+    </node>
+    <node id="kesselvon">
+      <data key="d0">0</data>
+    </node>
+    <node id="programmingguy">
+      <data key="d1">0</data>
+    </node>
+    <node id="anonagent">
+      <data key="d0">0</data>
+    </node>
+    <node id="canadian_golfer">
+      <data key="d0">0</data>
+    </node>
+    <node id="destroythenseek">
+      <data key="d0">0</data>
+    </node>
+    <node id="CommunismIsLove">
+      <data key="d0">1</data>
+    </node>
+    <node id="cfadeveloper">
+      <data key="d0">1</data>
+    </node>
+    <node id="ivymikey">
+      <data key="d0">1</data>
+    </node>
+    <node id="mrhelpr">
+      <data key="d0">0</data>
+    </node>
+    <node id="hiphoprising">
+      <data key="d0">1</data>
+    </node>
+    <node id="softwareguy74">
+      <data key="d0">1</data>
+    </node>
+    <node id="elcalrissian">
+      <data key="d0">1</data>
+    </node>
+    <node id="ex_nihilo">
+      <data key="d0">1</data>
+    </node>
+    <node id="sausalitoturkeyface">
+      <data key="d0">1</data>
+    </node>
+    <node id="ThatOneGuyReddit">
+      <data key="d0">1</data>
+    </node>
+    <node id="innerscorecard">
+      <data key="d0">1</data>
+    </node>
+    <node id="CATHOLIC_EXTREMIST">
+      <data key="d0">0</data>
+    </node>
+    <node id="phybere">
+      <data key="d0">1</data>
+    </node>
+    <node id="Jeter21881">
+      <data key="d0">1</data>
+    </node>
+    <node id="antiproton">
+      <data key="d0">0</data>
+    </node>
+    <node id="whataboutmydynamite">
+      <data key="d0">0</data>
+    </node>
+    <node id="ILOLyouLOLweallLOLOL">
+      <data key="d0">1</data>
+    </node>
+    <node id="jeansaddiction">
+      <data key="d0">0</data>
+    </node>
+    <node id="WizardOfNomaha">
+      <data key="d0">0</data>
+    </node>
+    <node id="redcards">
+      <data key="d0">1</data>
+    </node>
+    <node id="itsokbrotato">
+      <data key="d0">1</data>
+    </node>
+    <node id="bricolagefantasy">
+      <data key="d0">1</data>
+    </node>
+    <node id="Johnny182">
+      <data key="d0">0</data>
+    </node>
+    <node id="Dom9360">
+      <data key="d0">0</data>
+    </node>
+    <node id="Atheists_Are_Annoyin">
+      <data key="d0">1</data>
+    </node>
+    <node id="bedgar">
+      <data key="d0">1</data>
+    </node>
+    <node id="stockark">
+      <data key="d0">1</data>
+    </node>
+    <node id="sonicmerlin">
+      <data key="d0">0</data>
+    </node>
+    <node id="klaiere">
+      <data key="d0">1</data>
+    </node>
+    <node id="WilliamW78">
+      <data key="d0">1</data>
+    </node>
+    <node id="ra__account">
+      <data key="d0">1</data>
+    </node>
+    <node id="HaiKarate">
+      <data key="d0">0</data>
+    </node>
+    <node id="msdrahcir">
+      <data key="d0">1</data>
+    </node>
+    <node id="Horist">
+      <data key="d0">1</data>
+    </node>
+    <node id="Just-A-Story">
+      <data key="d0">0</data>
+    </node>
+    <node id="GroundhogExpert">
+      <data key="d0">1</data>
+    </node>
+    <node id="Frewchen">
+      <data key="d0">1</data>
+    </node>
+    <node id="shrimpy1">
+      <data key="d0">1</data>
+    </node>
+    <node id="ir0nli0nzi0n">
+      <data key="d1">1</data>
+    </node>
+    <node id="AngryBisonDDD">
+      <data key="d0">0</data>
+    </node>
+    <node id="NotADamsel">
+      <data key="d0">1</data>
+    </node>
+    <node id="ghettobacon">
+      <data key="d0">1</data>
+    </node>
+    <node id="James161324">
+      <data key="d0">1</data>
+    </node>
+    <node id="nckmiz">
+      <data key="d1">0</data>
+    </node>
+    <node id="Assistants">
+      <data key="d0">1</data>
+    </node>
+    <node id="Manny_Bothans">
+      <data key="d0">1</data>
+    </node>
+    <node id="k4f123">
+      <data key="d0">1</data>
+    </node>
+    <node id="accountdota2">
+      <data key="d0">1</data>
+    </node>
+    <node id="Out_of_Chicken">
+      <data key="d1">0</data>
+    </node>
+    <node id="Carlsinoc">
+      <data key="d0">0</data>
+    </node>
+    <node id="BigSlowTarget">
+      <data key="d0">0</data>
+    </node>
+    <node id="WCC335">
+      <data key="d0">1</data>
+    </node>
+    <node id="cantankerousoldgeezr">
+      <data key="d0">0</data>
+    </node>
+    <node id="ecography">
+      <data key="d0">0</data>
+    </node>
+    <node id="ss847859">
+      <data key="d0">1</data>
+    </node>
+    <node id="lizhang">
+      <data key="d0">1</data>
+    </node>
+    <node id="jeffreyrufino">
+      <data key="d0">0</data>
+    </node>
+    <node id="gatea">
+      <data key="d0">1</data>
+    </node>
+    <node id="LamarHusky">
+      <data key="d0">0</data>
+    </node>
+    <node id="bceagle411">
+      <data key="d0">1</data>
+    </node>
+    <node id="TheMysteryBlueFlame">
+      <data key="d0">0</data>
+    </node>
+    <node id="lvl99weedle">
+      <data key="d0">0</data>
+    </node>
+    <node id="zachattack82">
+      <data key="d0">1</data>
+    </node>
+    <node id="furybuilt">
+      <data key="d0">0</data>
+    </node>
+    <node id="Andyle604">
+      <data key="d0">0</data>
+    </node>
+    <node id="thelim3y">
+      <data key="d0">1</data>
+    </node>
+    <node id="Interstate75">
+      <data key="d0">0</data>
+    </node>
+    <node id="guptron">
+      <data key="d0">0</data>
+    </node>
+    <node id="DTon772">
+      <data key="d0">1</data>
+    </node>
+    <node id="MichaelLuciusJulian">
+      <data key="d0">1</data>
+    </node>
+    <node id="azaza_oazaza">
+      <data key="d0">1</data>
+    </node>
+    <node id="ryanmercer">
+      <data key="d0">0</data>
+    </node>
+    <node id="fib16">
+      <data key="d0">0</data>
+    </node>
+    <node id="Makxo">
+      <data key="d0">0</data>
+    </node>
+    <node id="Mrknowitall666">
+      <data key="d0">1</data>
+    </node>
+    <node id="buddybd">
+      <data key="d0">1</data>
+    </node>
+    <node id="dirteemac">
+      <data key="d1">0</data>
+    </node>
+    <node id="backspread">
+      <data key="d0">1</data>
+    </node>
+    <node id="someguyinMN">
+      <data key="d0">0</data>
+    </node>
+    <node id="jobuii">
+      <data key="d0">0</data>
+    </node>
+    <node id="autotldr">
+      <data key="d0">1</data>
+    </node>
+    <node id="vulturevolt">
+      <data key="d0">1</data>
+    </node>
+    <node id="DOWNV0TET0OBLIVI0N">
+      <data key="d0">1</data>
+    </node>
+    <node id="hornstien">
+      <data key="d0">1</data>
+    </node>
+    <node id="AriSparkz">
+      <data key="d0">1</data>
+    </node>
+    <node id="leostotch">
+      <data key="d0">1</data>
+    </node>
+    <node id="Iniamyen">
+      <data key="d0">0</data>
+    </node>
+    <node id="miketeeeveee">
+      <data key="d0">1</data>
+    </node>
+    <node id="coltsfan63">
+      <data key="d0">1</data>
+    </node>
+    <node id="ineedhelpwithinvest">
+      <data key="d0">1</data>
+    </node>
+    <node id="frogking">
+      <data key="d0">1</data>
+    </node>
+    <node id="BardownBeauty">
+      <data key="d0">1</data>
+    </node>
+    <node id="madman86">
+      <data key="d0">1</data>
+    </node>
+    <node id="yuckyucky">
+      <data key="d0">1</data>
+    </node>
+    <node id="stolenshamrock">
+      <data key="d0">0</data>
+    </node>
+    <node id="Tomsonx232">
+      <data key="d0">1</data>
+    </node>
+    <node id="FANGO">
+      <data key="d0">0</data>
+    </node>
+    <node id="LzyPenguin">
+      <data key="d0">1</data>
+    </node>
+    <node id="jbilsten">
+      <data key="d0">1</data>
+    </node>
+    <node id="DGW">
+      <data key="d0">0</data>
+    </node>
+    <node id="fsyolol">
+      <data key="d0">0</data>
+    </node>
+    <node id="californiarepublik">
+      <data key="d0">0</data>
+    </node>
+    <node id="poorboytrader">
+      <data key="d0">1</data>
+    </node>
+    <node id="Kim-Jong-Skill">
+      <data key="d0">1</data>
+    </node>
+    <node id="M0neyTrees">
+      <data key="d0">1</data>
+    </node>
+    <node id="megablast">
+      <data key="d0">0</data>
+    </node>
+    <node id="picz">
+      <data key="d0">0</data>
+    </node>
+    <node id="OhMyMemories">
+      <data key="d0">1</data>
+    </node>
+    <node id="alisonstone">
+      <data key="d0">1</data>
+    </node>
+    <node id="nomkiwi">
+      <data key="d0">1</data>
+    </node>
+    <node id="cunty_cuntington">
+      <data key="d0">0</data>
+    </node>
+    <node id="ericN">
+      <data key="d0">0</data>
+    </node>
+    <node id="Questionssm">
+      <data key="d0">1</data>
+    </node>
+    <node id="Martin_Samuelson">
+      <data key="d0">1</data>
+    </node>
+    <node id="SGCleveland">
+      <data key="d0">0</data>
+    </node>
+    <node id="Sayer101">
+      <data key="d0">1</data>
+    </node>
+    <node id="dangerhaynes">
+      <data key="d0">1</data>
+    </node>
+    <node id="inversend">
+      <data key="d1">0</data>
+    </node>
+    <node id="Points_To_You">
+      <data key="d0">0</data>
+    </node>
+    <node id="jazzyzaz">
+      <data key="d0">0</data>
+    </node>
+    <node id="dza76wutang">
+      <data key="d0">0</data>
+    </node>
+    <node id="Terrierpike">
+      <data key="d0">1</data>
+    </node>
+    <node id="PatFlynnEire">
+      <data key="d0">1</data>
+    </node>
+    <node id="humans_nature_1">
+      <data key="d0">0</data>
+    </node>
+    <node id="proptrader123">
+      <data key="d0">0</data>
+    </node>
+    <node id="Mokumer">
+      <data key="d0">1</data>
+    </node>
+    <node id="ADHDassassin">
+      <data key="d0">0</data>
+    </node>
+    <node id="MrMcJrMan">
+      <data key="d0">1</data>
+    </node>
+    <node id="RainbowDasher">
+      <data key="d0">1</data>
+    </node>
+    <node id="neilc">
+      <data key="d1">0</data>
+    </node>
+    <node id="Slave_to_Logic">
+      <data key="d0">1</data>
+    </node>
+    <node id="gobol">
+      <data key="d0">1</data>
+    </node>
+    <node id="eykanspelgud">
+      <data key="d0">0</data>
+    </node>
+    <node id="KEN_JAMES_bitch">
+      <data key="d0">1</data>
+    </node>
+    <node id="subiklim">
+      <data key="d0">1</data>
+    </node>
+    <node id="aPotOfJam">
+      <data key="d0">0</data>
+    </node>
+    <node id="dregan">
+      <data key="d0">0</data>
+    </node>
+    <node id="ehduuuu">
+      <data key="d0">1</data>
+    </node>
+    <node id="textbandit">
+      <data key="d0">0</data>
+    </node>
+    <node id="vfrbub">
+      <data key="d0">1</data>
+    </node>
+    <node id="edi25">
+      <data key="d0">0</data>
+    </node>
+    <node id="Jemmani">
+      <data key="d0">1</data>
+    </node>
+    <node id="greenlamp90">
+      <data key="d0">0</data>
+    </node>
+    <node id="mattindustries">
+      <data key="d0">0</data>
+    </node>
+    <node id="firechill2004">
+      <data key="d0">0</data>
+    </node>
+    <node id="TwopackShaker">
+      <data key="d0">1</data>
+    </node>
+    <node id="notasgoodasoral">
+      <data key="d0">1</data>
+    </node>
+    <node id="thefullernator">
+      <data key="d0">1</data>
+    </node>
+    <node id="BryJack">
+      <data key="d0">1</data>
+    </node>
+    <node id="CubSwanson">
+      <data key="d0">0</data>
+    </node>
+    <node id="Yangoose">
+      <data key="d0">1</data>
+    </node>
+    <node id="queeftontarantino">
+      <data key="d0">0</data>
+    </node>
+    <node id="M0b1u5">
+      <data key="d0">1</data>
+    </node>
+    <node id="mliving">
+      <data key="d0">0</data>
+    </node>
+    <node id="haeli05">
+      <data key="d0">0</data>
+    </node>
+    <node id="bradfromearth">
+      <data key="d0">1</data>
+    </node>
+    <node id="kittykatzmeowmeow">
+      <data key="d0">0</data>
+    </node>
+    <node id="-er">
+      <data key="d0">1</data>
+    </node>
+    <node id="daspence742">
+      <data key="d0">1</data>
+    </node>
+    <node id="ObservationalHumor">
+      <data key="d1">1</data>
+    </node>
+    <node id="tangman">
+      <data key="d0">1</data>
+    </node>
+    <node id="BigSpooky">
+      <data key="d0">1</data>
+    </node>
+    <node id="medatascientist">
+      <data key="d0">1</data>
+    </node>
+    <node id="Biwin">
+      <data key="d0">1</data>
+    </node>
+    <node id="ent4rent">
+      <data key="d0">1</data>
+    </node>
+    <node id="HarrisonGourd">
+      <data key="d1">0</data>
+    </node>
+    <node id="Y3808">
+      <data key="d0">0</data>
+    </node>
+    <node id="BATHTUBSURFER">
+      <data key="d0">0</data>
+    </node>
+    <node id="-Chatsky-">
+      <data key="d0">0</data>
+    </node>
+    <node id="Jmstutman">
+      <data key="d0">0</data>
+    </node>
+    <node id="Redditcycle">
+      <data key="d0">0</data>
+    </node>
+    <node id="Stockguy777">
+      <data key="d0">1</data>
+    </node>
+    <node id="Ahueh">
+      <data key="d0">1</data>
+    </node>
+    <node id="AsaKurai">
+      <data key="d0">0</data>
+    </node>
+    <node id="Prettyniceguytoo">
+      <data key="d0">0</data>
+    </node>
+    <node id="fredtobik">
+      <data key="d0">1</data>
+    </node>
+    <node id="mr_twitch">
+      <data key="d0">1</data>
+    </node>
+    <node id="wretcheddawn">
+      <data key="d0">1</data>
+    </node>
+    <node id="skimmer">
+      <data key="d0">0</data>
+    </node>
+    <node id="_Cream_Corn_">
+      <data key="d0">0</data>
+    </node>
+    <node id="getithot">
+      <data key="d0">1</data>
+    </node>
+    <node id="fsnotsurewhatdo">
+      <data key="d0">1</data>
+    </node>
+    <node id="fireandnoise">
+      <data key="d0">1</data>
+    </node>
+    <node id="cdrake64">
+      <data key="d0">0</data>
+    </node>
+    <node id="LiveLongAndFI">
+      <data key="d0">0</data>
+    </node>
+    <node id="rossagessausage">
+      <data key="d0">0</data>
+    </node>
+    <node id="Wojiz">
+      <data key="d0">1</data>
+    </node>
+    <node id="chaosandfury84">
+      <data key="d0">1</data>
+    </node>
+    <node id="theineffablebob">
+      <data key="d0">1</data>
+    </node>
+    <node id="easy_like_sunday">
+      <data key="d0">0</data>
+    </node>
+    <node id="throwawaystockpaa">
+      <data key="d0">1</data>
+    </node>
+    <node id="markf298">
+      <data key="d0">1</data>
+    </node>
+    <node id="ibn4n">
+      <data key="d0">1</data>
+    </node>
+    <node id="Akumar223">
+      <data key="d0">1</data>
+    </node>
+    <node id="s54b32dd">
+      <data key="d0">1</data>
+    </node>
+    <node id="Countdown216">
+      <data key="d0">0</data>
+    </node>
+    <node id="travistee">
+      <data key="d0">0</data>
+    </node>
+    <node id="dimensional_dan">
+      <data key="d0">0</data>
+    </node>
+    <node id="SleepyConscience">
+      <data key="d0">1</data>
+    </node>
+    <node id="2pactopus">
+      <data key="d0">0</data>
+    </node>
+    <node id="EscortSportage">
+      <data key="d0">0</data>
+    </node>
+    <node id="sarcasticrodent">
+      <data key="d0">1</data>
+    </node>
+    <node id="HansMannibus">
+      <data key="d0">1</data>
+    </node>
+    <node id="stranger_here_myself">
+      <data key="d0">1</data>
+    </node>
+    <node id="HankTheWu">
+      <data key="d0">1</data>
+    </node>
+    <node id="theinvestingblog">
+      <data key="d1">0</data>
+    </node>
+    <node id="pheen">
+      <data key="d0">1</data>
+    </node>
+    <node id="_stock_bot_">
+      <data key="d0">1</data>
+    </node>
+    <node id="centurion44">
+      <data key="d0">1</data>
+    </node>
+    <node id="toggaf69">
+      <data key="d0">1</data>
+    </node>
+    <node id="Tobikaj">
+      <data key="d0">0</data>
+    </node>
+    <node id="st0815">
+      <data key="d0">1</data>
+    </node>
+    <node id="DabberErrl">
+      <data key="d0">1</data>
+    </node>
+    <node id="ShadowHandler">
+      <data key="d0">1</data>
+    </node>
+    <node id="lutz81">
+      <data key="d0">1</data>
+    </node>
+    <node id="z500zag">
+      <data key="d0">0</data>
+    </node>
+    <node id="TheScotchEngineer">
+      <data key="d0">1</data>
+    </node>
+    <node id="bharder">
+      <data key="d0">0</data>
+    </node>
+    <node id="-_eeeeee_-">
+      <data key="d0">0</data>
+    </node>
+    <edge source="ZeusHoldsMyJockstrap" target="HansMannibus" />
+    <edge source="ZeusHoldsMyJockstrap" target="VotedOut" />
+    <edge source="ZeusHoldsMyJockstrap" target="jsm2727" />
+    <edge source="sava_texas" target="redcards" />
+    <edge source="Pzychotix" target="fruit_stand_employee" />
+    <edge source="d3rp1ng" target="enassif" />
+    <edge source="aseffefeef" target="Gizlo" />
+    <edge source="sewr" target="augieb14" />
+    <edge source="blah_blah_STFU" target="TominatorXX" />
+    <edge source="blah_blah_STFU" target="Zurevu" />
+    <edge source="blah_blah_STFU" target="cheriot" />
+    <edge source="fobfromgermany" target="Andyle604" />
+    <edge source="jwmsp" target="MrJC666" />
+    <edge source="jwmsp" target="BountyHunting4Trolls" />
+    <edge source="jwmsp" target="TheRealAntacular" />
+    <edge source="Dplymkr88" target="adammjam" />
+    <edge source="Dplymkr88" target="DTon772" />
+    <edge source="f4therfucker" target="M0neyTrees" />
+    <edge source="Indefinitely_not" target="MrJC666" />
+    <edge source="Indefinitely_not" target="adammjam" />
+    <edge source="Indefinitely_not" target="polnikes" />
+    <edge source="Indefinitely_not" target="st0815" />
+    <edge source="r4ndpaulsbrilloballs" target="Andyle604" />
+    <edge source="r4ndpaulsbrilloballs" target="veninvillifishy" />
+    <edge source="PrimePairs" target="tobygreenbacking" />
+    <edge source="PrimePairs" target="FireOpal" />
+    <edge source="ipoofood" target="FercPolo" />
+    <edge source="ipoofood" target="Y3808" />
+    <edge source="ipoofood" target="realizedvariance" />
+    <edge source="ipoofood" target="nowaibro" />
+    <edge source="ipoofood" target="graciouspatty" />
+    <edge source="StockJock-e" target="SecondChanceUsername" />
+    <edge source="StockJock-e" target="bartturner" />
+    <edge source="StockJock-e" target="xlledx" />
+    <edge source="StockJock-e" target="Ostracized" />
+    <edge source="StockJock-e" target="enassif" />
+    <edge source="StockJock-e" target="PlCKLES" />
+    <edge source="StockJock-e" target="nojacket" />
+    <edge source="StockJock-e" target="BenCasey1" />
+    <edge source="StockJock-e" target="vbchrist" />
+    <edge source="StockJock-e" target="xSimoHayha" />
+    <edge source="StockJock-e" target="Dom9360" />
+    <edge source="StockJock-e" target="KeenanKolarik" />
+    <edge source="Arksaw" target="_stock_bot_" />
+    <edge source="Arksaw" target="xlledx" />
+    <edge source="jordan0day" target="seeallgood" />
+    <edge source="aglassonion" target="madking8" />
+    <edge source="aglassonion" target="baby_mike" />
+    <edge source="mdatwood" target="workhorse_investor" />
+    <edge source="mdatwood" target="YounggMoney" />
+    <edge source="mdatwood" target="el_el" />
+    <edge source="mdatwood" target="Bagrant1" />
+    <edge source="mdatwood" target="adammjam" />
+    <edge source="mdatwood" target="ZeroCool2u" />
+    <edge source="mdatwood" target="ParadiseCity1995" />
+    <edge source="mdatwood" target="BroasisMusic" />
+    <edge source="mdatwood" target="laminak" />
+    <edge source="mdatwood" target="Prettyniceguytoo" />
+    <edge source="mdatwood" target="Theta_Zero" />
+    <edge source="OhEmGeeZ" target="jerryondrums" />
+    <edge source="protox88" target="Reggie-Middleton" />
+    <edge source="HertzToupee" target="guhhuh" />
+    <edge source="kieranmullen" target="westmontblvd" />
+    <edge source="pavpatel" target="GoldenChrysus" />
+    <edge source="pavpatel" target="bobsaget91" />
+    <edge source="pavpatel" target="_stock_bot_" />
+    <edge source="stan93" target="Gizlo" />
+    <edge source="stan93" target="proptrader123" />
+    <edge source="stan93" target="xSimoHayha" />
+    <edge source="cnac8709" target="theHomers" />
+    <edge source="cnac8709" target="woodbuck" />
+    <edge source="cnac8709" target="StoneCloud" />
+    <edge source="cnac8709" target="neilc" />
+    <edge source="cnac8709" target="chipmunk7000" />
+    <edge source="cnac8709" target="justthrowmeout" />
+    <edge source="cnac8709" target="fakehalo" />
+    <edge source="cnac8709" target="cookingboy" />
+    <edge source="robertcsugar" target="Datsyukdangelz" />
+    <edge source="robertcsugar" target="firejuggler74" />
+    <edge source="Zeltino" target="whythehellamihere" />
+    <edge source="xoctor" target="thatoneguys" />
+    <edge source="Ralph_Waldo_Emerson" target="Datsyukdangelz" />
+    <edge source="Ralph_Waldo_Emerson" target="leostotch" />
+    <edge source="holysherm" target="FishyFred" />
+    <edge source="peter_bolton" target="Deductions" />
+    <edge source="peter_bolton" target="autotldr" />
+    <edge source="Ed_Raket" target="tabswhore" />
+    <edge source="Zizizizz" target="adammjam" />
+    <edge source="Zizizizz" target="Martin_Samuelson" />
+    <edge source="frohedadrine" target="KSUWildcats" />
+    <edge source="oashito" target="M0neyTrees" />
+    <edge source="PeanutButterRedDirt" target="westmontblvd" />
+    <edge source="lucius42" target="Bagrant1" />
+    <edge source="Jabronez" target="Datsyukdangelz" />
+    <edge source="Jabronez" target="Andyle604" />
+    <edge source="Jabronez" target="azaza_oazaza" />
+    <edge source="Jabronez" target="Wojiz" />
+    <edge source="Jabronez" target="Heavenfall" />
+    <edge source="Jabronez" target="centurion44" />
+    <edge source="Jabronez" target="danweber" />
+    <edge source="miscsubs" target="adammjam" />
+    <edge source="Manofur" target="Datsyukdangelz" />
+    <edge source="Manofur" target="bricolagefantasy" />
+    <edge source="wostestwillis" target="Andyle604" />
+    <edge source="Cdub100" target="Zurevu" />
+    <edge source="Cdub100" target="Auzy" />
+    <edge source="JeepBike" target="el_el" />
+    <edge source="Bagrant1" target="RemarkablyGoodTaste" />
+    <edge source="Bagrant1" target="LamarHusky" />
+    <edge source="Bagrant1" target="NYKyle610" />
+    <edge source="Bagrant1" target="BroasisMusic" />
+    <edge source="PostNationalism" target="rfgrunt" />
+    <edge source="PostNationalism" target="bradfromearth" />
+    <edge source="PostNationalism" target="papajohn56" />
+    <edge source="PostNationalism" target="trutommo" />
+    <edge source="PostNationalism" target="jsblk3000" />
+    <edge source="PostNationalism" target="californiarepublik" />
+    <edge source="PostNationalism" target="bonafidebob" />
+    <edge source="PostNationalism" target="NathanDickson" />
+    <edge source="discussthrower_" target="joeG2324" />
+    <edge source="flux8" target="i-invest" />
+    <edge source="flux8" target="crayfordo151" />
+    <edge source="flux8" target="swaglikewags" />
+    <edge source="flux8" target="haxbro14" />
+    <edge source="flux8" target="queeftontarantino" />
+    <edge source="bringindabacon" target="M0neyTrees" />
+    <edge source="bringindabacon" target="guptron" />
+    <edge source="bringindabacon" target="ZeroCool2u" />
+    <edge source="bringindabacon" target="purpl3_dinosaur" />
+    <edge source="bringindabacon" target="cloudone" />
+    <edge source="bringindabacon" target="adammjam" />
+    <edge source="bringindabacon" target="SomeGuyInOttawa" />
+    <edge source="bringindabacon" target="ms7787" />
+    <edge source="bringindabacon" target="HarrisonGourd" />
+    <edge source="Zurevu" target="MeowMixExpress" />
+    <edge source="Zurevu" target="adammjam" />
+    <edge source="Zurevu" target="cdrake64" />
+    <edge source="Zurevu" target="1541drive" />
+    <edge source="Zurevu" target="DuckTouchr" />
+    <edge source="Zurevu" target="cheriot" />
+    <edge source="Zurevu" target="johnyma22" />
+    <edge source="Zurevu" target="jtkelly86" />
+    <edge source="Zurevu" target="bartturner" />
+    <edge source="Zurevu" target="UMDZete" />
+    <edge source="Zurevu" target="msdrahcir" />
+    <edge source="Zurevu" target="mint_eye" />
+    <edge source="Zurevu" target="gujupike" />
+    <edge source="Zurevu" target="rudenavigator" />
+    <edge source="Zurevu" target="legalinvestor" />
+    <edge source="Zurevu" target="luopjiggy" />
+    <edge source="Zurevu" target="partiallypro" />
+    <edge source="Zurevu" target="Auzy" />
+    <edge source="Zurevu" target="kirklennon" />
+    <edge source="Zurevu" target="oppy1984" />
+    <edge source="Sancer" target="legalinvestor" />
+    <edge source="Sancer" target="paulx441" />
+    <edge source="jeebidy" target="SDtoSF" />
+    <edge source="jeebidy" target="stockspikes" />
+    <edge source="jeebidy" target="s54b32dd" />
+    <edge source="jeebidy" target="dabasegawd" />
+    <edge source="memius" target="djmemphis" />
+    <edge source="memius" target="brucebwang" />
+    <edge source="memius" target="vxbet" />
+    <edge source="memius" target="foulpudding" />
+    <edge source="memius" target="EmuTribe" />
+    <edge source="memius" target="Y3808" />
+    <edge source="memius" target="Countdown216" />
+    <edge source="memius" target="ghostabdi" />
+    <edge source="memius" target="hiphoprising" />
+    <edge source="memius" target="FercPolo" />
+    <edge source="spsheridan" target="autotldr" />
+    <edge source="spsheridan" target="softwareguy74" />
+    <edge source="bwik" target="Andyle604" />
+    <edge source="bwik" target="Chodrick" />
+    <edge source="bwik" target="kaji823" />
+    <edge source="UhhPhrasing" target="firechill2004" />
+    <edge source="Chortlier" target="Areumdaun" />
+    <edge source="Chortlier" target="CubSwanson" />
+    <edge source="yo1k2tog" target="fruit_stand_employee" />
+    <edge source="JustShortIt" target="bartturner" />
+    <edge source="JustShortIt" target="Drew0054" />
+    <edge source="JustShortIt" target="chewedbacca" />
+    <edge source="JustShortIt" target="skratsda" />
+    <edge source="JustShortIt" target="oTHEWHITERABBIT" />
+    <edge source="x0rcist" target="adammjam" />
+    <edge source="paulx441" target="legalinvestor" />
+    <edge source="paulx441" target="sirdevinstine" />
+    <edge source="paulx441" target="TheRealAntacular" />
+    <edge source="HomoErectus3" target="jsm2727" />
+    <edge source="Soldierducky" target="mohi666" />
+    <edge source="rahjah" target="ParadiseCity1995" />
+    <edge source="joe_g_2324" target="nows" />
+    <edge source="joe_g_2324" target="dvdmovie1a" />
+    <edge source="joe_g_2324" target="UngratefulPeon" />
+    <edge source="BeatArmy99" target="BenCasey1" />
+    <edge source="BeatArmy99" target="bartturner" />
+    <edge source="BeatArmy99" target="GaryBarton" />
+    <edge source="BeatArmy99" target="jonfla" />
+    <edge source="BeatArmy99" target="azaza_oazaza" />
+    <edge source="lawstudent2" target="thatoneguys" />
+    <edge source="lawstudent2" target="TBP_Doxxing_Victim" />
+    <edge source="MaleWizard" target="_stock_bot_" />
+    <edge source="MaleWizard" target="DSTxtcy" />
+    <edge source="Drew0054" target="bartturner" />
+    <edge source="Drew0054" target="tabswhore" />
+    <edge source="Drew0054" target="seeallgood" />
+    <edge source="Drew0054" target="kirklennon" />
+    <edge source="Drew0054" target="gatea" />
+    <edge source="Vithar" target="westmontblvd" />
+    <edge source="I_hate_alot_a_lot" target="-er" />
+    <edge source="I_hate_alot_a_lot" target="IAmBadAtInternet" />
+    <edge source="I_hate_alot_a_lot" target="CubSwanson" />
+    <edge source="MindOfJay" target="westmontblvd" />
+    <edge source="monkeydrunker" target="jonfla" />
+    <edge source="monkeydrunker" target="klaiere" />
+    <edge source="MrAlahuAkbar" target="CustomerHarvey" />
+    <edge source="MrAlahuAkbar" target="Simon_Inaki" />
+    <edge source="BroasisMusic" target="RemarkablyGoodTaste" />
+    <edge source="BroasisMusic" target="NYKyle610" />
+    <edge source="Aguacaterri" target="OhMyMemories" />
+    <edge source="Aguacaterri" target="Iniamyen" />
+    <edge source="JROD725" target="BenCasey1" />
+    <edge source="JROD725" target="jartek" />
+    <edge source="orca9999" target="KSUWildcats" />
+    <edge source="orca9999" target="mattindustries" />
+    <edge source="kingoftheinterwebz" target="bartturner" />
+    <edge source="traderguy1172" target="CustomerHarvey" />
+    <edge source="KeenanKolarik" target="BenCasey1" />
+    <edge source="KeenanKolarik" target="ParadiseCity1995" />
+    <edge source="KeenanKolarik" target="phybere" />
+    <edge source="KeenanKolarik" target="TakeTheShotStaaaan" />
+    <edge source="Witcrew" target="NZzzzzzz" />
+    <edge source="Witcrew" target="sellbotics" />
+    <edge source="Witcrew" target="SDtoSF" />
+    <edge source="Witcrew" target="joeG2324" />
+    <edge source="Witcrew" target="adammjam" />
+    <edge source="syntheticcdo" target="enassif" />
+    <edge source="syntheticcdo" target="azaza_oazaza" />
+    <edge source="syntheticcdo" target="backspread" />
+    <edge source="syntheticcdo" target="elcalrissian" />
+    <edge source="whoismarkowitz" target="nows" />
+    <edge source="Keppana" target="Andyle604" />
+    <edge source="papajohn56" target="bonafidebob" />
+    <edge source="arlettedetten" target="autotldr" />
+    <edge source="Im_a_fuckin_asshole" target="brucebwang" />
+    <edge source="Im_a_fuckin_asshole" target="fsyollo" />
+    <edge source="psypher82" target="BountyHunting4Trolls" />
+    <edge source="psypher82" target="brucebwang" />
+    <edge source="psypher82" target="Assistants" />
+    <edge source="L_Cranston_Shadow" target="SDtoSF" />
+    <edge source="L_Cranston_Shadow" target="atcoyou" />
+    <edge source="ffflllyyyeeerrr" target="jarrit0s" />
+    <edge source="ffflllyyyeeerrr" target="MILES_FOR_TITS" />
+    <edge source="mapoftasmania" target="hornstien" />
+    <edge source="default_accounts" target="FishyFred" />
+    <edge source="default_accounts" target="inversend" />
+    <edge source="cygtfm" target="Reggie-Middleton" />
+    <edge source="cygtfm" target="EmuTribe" />
+    <edge source="cygtfm" target="kirklennon" />
+    <edge source="cygtfm" target="ibn4n" />
+    <edge source="cygtfm" target="gobol" />
+    <edge source="cygtfm" target="AngryBisonDDD" />
+    <edge source="cygtfm" target="ryanmercer" />
+    <edge source="cygtfm" target="munky9002" />
+    <edge source="Pendulum" target="jonfla" />
+    <edge source="Pendulum" target="cogman10" />
+    <edge source="woodbuck" target="theHomers" />
+    <edge source="woodbuck" target="roue_" />
+    <edge source="woodbuck" target="YounggMoney" />
+    <edge source="woodbuck" target="QU3NT4R" />
+    <edge source="DaphneDK" target="Andyle604" />
+    <edge source="finderzkeepers" target="TypicalVillain" />
+    <edge source="heatpad" target="theHomers" />
+    <edge source="10311978" target="CustomerHarvey" />
+    <edge source="OscarZetaAcosta" target="jonfla" />
+    <edge source="OscarZetaAcosta" target="cogman10" />
+    <edge source="FercPolo" target="FishyFred" />
+    <edge source="FercPolo" target="only1parkjisung" />
+    <edge source="FercPolo" target="Akumar223" />
+    <edge source="FercPolo" target="-er" />
+    <edge source="FercPolo" target="CustomerHarvey" />
+    <edge source="FercPolo" target="BenCasey1" />
+    <edge source="FercPolo" target="fsyollo" />
+    <edge source="FercPolo" target="LongChocolateMilk" />
+    <edge source="FercPolo" target="eigenman" />
+    <edge source="FercPolo" target="Platanokid" />
+    <edge source="FercPolo" target="Gizlo" />
+    <edge source="FercPolo" target="fsyolol" />
+    <edge source="FercPolo" target="HateWalmartWolverine" />
+    <edge source="FercPolo" target="fysoIo" />
+    <edge source="FercPolo" target="brucebwang" />
+    <edge source="FercPolo" target="stolenshamrock" />
+    <edge source="FercPolo" target="fsyolo" />
+    <edge source="FercPolo" target="13104598210" />
+    <edge source="FercPolo" target="backspread" />
+    <edge source="FercPolo" target="CHAINSAW_VASECTOMY" />
+    <edge source="FercPolo" target="fsnotsurewhatdo" />
+    <edge source="FercPolo" target="Simon_Inaki" />
+    <edge source="FercPolo" target="playingAAPL" />
+    <edge source="FercPolo" target="chaosandfury84" />
+    <edge source="FercPolo" target="Fap-0-matic" />
+    <edge source="FercPolo" target="bonghits96" />
+    <edge source="FercPolo" target="Y3808" />
+    <edge source="FercPolo" target="PartagasSD4" />
+    <edge source="FercPolo" target="ex_nihilo" />
+    <edge source="andersondylan087" target="BenCasey1" />
+    <edge source="midgetginger" target="MichaelLuciusJulian" />
+    <edge source="midgetginger" target="indigoreality" />
+    <edge source="midgetginger" target="accountdota2" />
+    <edge source="midgetginger" target="PlCKLES" />
+    <edge source="midgetginger" target="CHAINSAW_VASECTOMY" />
+    <edge source="fakehalo" target="theHomers" />
+    <edge source="fakehalo" target="mohi666" />
+    <edge source="blackeagle613" target="guhhuh" />
+    <edge source="blackeagle613" target="tobygreenbacking" />
+    <edge source="blackeagle613" target="getithot" />
+    <edge source="Smeghead74" target="workhorse_investor" />
+    <edge source="CustomerHarvey" target="questionanswersquest" />
+    <edge source="CustomerHarvey" target="phybere" />
+    <edge source="CustomerHarvey" target="chaosandfury84" />
+    <edge source="CustomerHarvey" target="vulturevolt" />
+    <edge source="mariox19" target="azaza_oazaza" />
+    <edge source="brummm" target="SDtoSF" />
+    <edge source="RanthersReallyRuck" target="ParadiseCity1995" />
+    <edge source="Tamer_" target="azaza_oazaza" />
+    <edge source="Tamer_" target="sebko" />
+    <edge source="snutr" target="BenCasey1" />
+    <edge source="bluemagic124" target="Andyle604" />
+    <edge source="PAforGA" target="mrhelpr" />
+    <edge source="PAforGA" target="bartturner" />
+    <edge source="PAforGA" target="floor-pi" />
+    <edge source="Theyta" target="Simon_Inaki" />
+    <edge source="texasyeehaw" target="bartturner" />
+    <edge source="texasyeehaw" target="thompo" />
+    <edge source="texasyeehaw" target="zawmbie5" />
+    <edge source="osbournecox2" target="i-invest" />
+    <edge source="Trifectard" target="mohi666" />
+    <edge source="Trifectard" target="Vycid" />
+    <edge source="_ass_burgers_" target="XGranny_SmithX1" />
+    <edge source="Amorphica" target="markf298" />
+    <edge source="Vycid" target="jerryondrums" />
+    <edge source="Vycid" target="mohi666" />
+    <edge source="Vycid" target="xlledx" />
+    <edge source="Vycid" target="madking8" />
+    <edge source="Vycid" target="WhiteBoythatCantJump" />
+    <edge source="Vycid" target="backspread" />
+    <edge source="Vycid" target="foulpudding" />
+    <edge source="Vycid" target="cantusethemain" />
+    <edge source="Vycid" target="itsokbrotato" />
+    <edge source="augieb14" target="Valtyr8" />
+    <edge source="kungpaaao" target="whythehellamihere" />
+    <edge source="kungpaaao" target="BryGuy81" />
+    <edge source="tommyboy319" target="fruit_stand_employee" />
+    <edge source="LogicalTom" target="KSUWildcats" />
+    <edge source="sixtyt3" target="GaryBarton" />
+    <edge source="jkroberts13" target="purpl3_dinosaur" />
+    <edge source="fsyollo" target="brucebwang" />
+    <edge source="fsyollo" target="Platanokid" />
+    <edge source="fsyollo" target="Assistants" />
+    <edge source="unjung" target="bceagle411" />
+    <edge source="unjung" target="stockspikes" />
+    <edge source="unjung" target="adammjam" />
+    <edge source="unjung" target="i-invest" />
+    <edge source="unjung" target="viperabyss" />
+    <edge source="unjung" target="shazoocow" />
+    <edge source="unjung" target="ExtremelyQualified" />
+    <edge source="unjung" target="ryanmercer" />
+    <edge source="Lapelli" target="nomkiwi" />
+    <edge source="Lapelli" target="picz" />
+    <edge source="Lapelli" target="Countdown216" />
+    <edge source="up2zo" target="I_FUCK_UP_RECIPES" />
+    <edge source="up2zo" target="Y3808" />
+    <edge source="xSimoHayha" target="Gizlo" />
+    <edge source="neezy112" target="seeallgood" />
+    <edge source="neezy112" target="tangman" />
+    <edge source="dg10050" target="notasgoodasoral" />
+    <edge source="Billy-theghost-Mays" target="e_step" />
+    <edge source="xcomv01" target="BenCasey1" />
+    <edge source="xcomv01" target="rymarc" />
+    <edge source="firejuggler74" target="Datsyukdangelz" />
+    <edge source="Javbw" target="KSUWildcats" />
+    <edge source="Javbw" target="King-in-Council" />
+    <edge source="Scarsdale_Vibe" target="SDtoSF" />
+    <edge source="Scarsdale_Vibe" target="jonesrr" />
+    <edge source="Maindeathwagon" target="bartturner" />
+    <edge source="cloudone" target="M0neyTrees" />
+    <edge source="MagicWishMonkey" target="azaza_oazaza" />
+    <edge source="giovannibernini" target="iamgroleo" />
+    <edge source="giovannibernini" target="rossagessausage" />
+    <edge source="giovannibernini" target="reacher235711" />
+    <edge source="giovannibernini" target="sscspagftphbpdh17" />
+    <edge source="Grooveman07" target="TheMysteryBlueFlame" />
+    <edge source="Grooveman07" target="anonagent" />
+    <edge source="zeebyj" target="adammjam" />
+    <edge source="theonly101" target="UngratefulPeon" />
+    <edge source="theonly101" target="gmtjr" />
+    <edge source="theonly101" target="IronTek" />
+    <edge source="theonly101" target="180south" />
+    <edge source="JonnyWicked" target="haeli05" />
+    <edge source="JonnyWicked" target="Investlurker235" />
+    <edge source="JonnyWicked" target="_stock_bot_" />
+    <edge source="JonnyWicked" target="bigbadberry3" />
+    <edge source="AoF-Vagrant" target="eigenman" />
+    <edge source="AoF-Vagrant" target="Fap-0-matic" />
+    <edge source="39spidey" target="JamesAQuintero" />
+    <edge source="robvas" target="KSUWildcats" />
+    <edge source="AdrianneOverfelt" target="autotldr" />
+    <edge source="danweber" target="azaza_oazaza" />
+    <edge source="skipper14" target="fruit_stand_employee" />
+    <edge source="ParadiseCity1995" target="Y3808" />
+    <edge source="ParadiseCity1995" target="Zeedude22" />
+    <edge source="ParadiseCity1995" target="CHAINSAW_VASECTOMY" />
+    <edge source="ParadiseCity1995" target="illuminerdi" />
+    <edge source="ParadiseCity1995" target="Horist" />
+    <edge source="ParadiseCity1995" target="dude_abide" />
+    <edge source="ParadiseCity1995" target="LzyPenguin" />
+    <edge source="ParadiseCity1995" target="helpmelearn20" />
+    <edge source="ParadiseCity1995" target="dunker" />
+    <edge source="ParadiseCity1995" target="IDontCareForTurtles" />
+    <edge source="ParadiseCity1995" target="losemoneywithenemies" />
+    <edge source="anthonymckay" target="theHomers" />
+    <edge source="anthonymckay" target="mirinrustles" />
+    <edge source="ichivictus" target="adammjam" />
+    <edge source="php-rocks-lol" target="compounding" />
+    <edge source="php-rocks-lol" target="hydrocyanide" />
+    <edge source="swaglikewags" target="i-invest" />
+    <edge source="swaglikewags" target="kickstand" />
+    <edge source="swaglikewags" target="cantusethemain" />
+    <edge source="swaglikewags" target="ericN" />
+    <edge source="swaglikewags" target="ObservationalHumor" />
+    <edge source="King-in-Council" target="KSUWildcats" />
+    <edge source="King-in-Council" target="righty" />
+    <edge source="King-in-Council" target="Delkomatic" />
+    <edge source="kenlubin" target="KSUWildcats" />
+    <edge source="kenlubin" target="Yangoose" />
+    <edge source="thenewguyonreddit" target="seeallgood" />
+    <edge source="thenewguyonreddit" target="Aricherstate" />
+    <edge source="thenewguyonreddit" target="canadian_golfer" />
+    <edge source="workhorse_investor" target="actuallyinvesting" />
+    <edge source="workhorse_investor" target="SwiftProgrammer" />
+    <edge source="workhorse_investor" target="Tobikaj" />
+    <edge source="Shonuff8" target="AndrewS42" />
+    <edge source="culturefan" target="ohrlee" />
+    <edge source="frgvn" target="madeituprightnow" />
+    <edge source="frgvn" target="very_username" />
+    <edge source="frgvn" target="purpl3_dinosaur" />
+    <edge source="frgvn" target="sethklarman" />
+    <edge source="SchoolboyKyubey" target="gypsy4" />
+    <edge source="SchoolboyKyubey" target="knatxxx" />
+    <edge source="californian_" target="footlong24seven" />
+    <edge source="californian_" target="hydrocyanide" />
+    <edge source="Investing_Account" target="adammjam" />
+    <edge source="Investing_Account" target="Prettyniceguytoo" />
+    <edge source="MMath" target="SMc-Twelve" />
+    <edge source="MMath" target="UniverseCity" />
+    <edge source="unoquickquestion" target="brucebwang" />
+    <edge source="unoquickquestion" target="SquareRoot" />
+    <edge source="Woopsyeah" target="AriSparkz" />
+    <edge source="Woopsyeah" target="FlexboxAiken" />
+    <edge source="ZeroCool2u" target="vietiscool" />
+    <edge source="ZeroCool2u" target="nomkiwi" />
+    <edge source="ZeroCool2u" target="Theta_Zero" />
+    <edge source="ZeroCool2u" target="ms7787" />
+    <edge source="ZeroCool2u" target="AnonymousBallsack" />
+    <edge source="ZeroCool2u" target="tomsun100" />
+    <edge source="ZeroCool2u" target="docbauies" />
+    <edge source="ZeroCool2u" target="ent4rent" />
+    <edge source="ZeroCool2u" target="roue_" />
+    <edge source="ZeroCool2u" target="Draiko" />
+    <edge source="ZeroCool2u" target="ObservationalHumor" />
+    <edge source="ZeroCool2u" target="nckmiz" />
+    <edge source="ZeroCool2u" target="1Kanevil" />
+    <edge source="ZeroCool2u" target="theineffablebob" />
+    <edge source="ZeroCool2u" target="AllanBz" />
+    <edge source="ZeroCool2u" target="ohrlee" />
+    <edge source="ZeroCool2u" target="ScriptPro" />
+    <edge source="ZeroCool2u" target="cookingboy" />
+    <edge source="TTPrograms" target="moumouren" />
+    <edge source="PartagasSD4" target="stolenshamrock" />
+    <edge source="PartagasSD4" target="semsr" />
+    <edge source="joeG2324" target="dvdmovie1a" />
+    <edge source="joeG2324" target="Redditcycle" />
+    <edge source="joeG2324" target="KEN_JAMES_bitch" />
+    <edge source="joeG2324" target="mjohnson1975" />
+    <edge source="joeG2324" target="LiveLongAndFI" />
+    <edge source="joeG2324" target="Tomsonx232" />
+    <edge source="joeG2324" target="ihatechange" />
+    <edge source="joeG2324" target="RUS_Hustler" />
+    <edge source="joeG2324" target="closingbell" />
+    <edge source="joeG2324" target="Angry_Retail_Banker" />
+    <edge source="joeG2324" target="xlledx" />
+    <edge source="Draiko" target="BenCasey1" />
+    <edge source="Draiko" target="adammjam" />
+    <edge source="Draiko" target="Points_To_You" />
+    <edge source="Draiko" target="actuallyinvesting" />
+    <edge source="ohrlee" target="medatascientist" />
+    <edge source="ohrlee" target="jobuii" />
+    <edge source="khalsa_fauj" target="TheMysteryBlueFlame" />
+    <edge source="everythingsmental" target="Johnny182" />
+    <edge source="everythingsmental" target="Jawbr8kr" />
+    <edge source="MoneyMonk5" target="bartturner" />
+    <edge source="MoneyMonk5" target="seeallgood" />
+    <edge source="MoneyMonk5" target="Slave_to_Logic" />
+    <edge source="IdreamARiver" target="seeallgood" />
+    <edge source="pcopley" target="TheMysteryBlueFlame" />
+    <edge source="sseccus" target="funkeepickle" />
+    <edge source="sseccus" target="hedgefundaspirations" />
+    <edge source="sseccus" target="DRANKLE" />
+    <edge source="abczyx123" target="TerpZ" />
+    <edge source="hockey915" target="TypicalVillain" />
+    <edge source="hockey915" target="farzyness" />
+    <edge source="hockey915" target="YouveBeenGundlached" />
+    <edge source="nojacket" target="legalinvestor" />
+    <edge source="Nathaniel_Higgers" target="azaza_oazaza" />
+    <edge source="CallMeOatmeal" target="el_el" />
+    <edge source="Badbaseball" target="HansMannibus" />
+    <edge source="XGranny_SmithX1" target="AllanBz" />
+    <edge source="sebko" target="azaza_oazaza" />
+    <edge source="PolkyPolk" target="mliving" />
+    <edge source="PolkyPolk" target="autotldr" />
+    <edge source="schammy" target="westmontblvd" />
+    <edge source="NPPraxis" target="bartturner" />
+    <edge source="NPPraxis" target="QU3NT4R" />
+    <edge source="NPPraxis" target="brazillion" />
+    <edge source="cuddlesy" target="seeallgood" />
+    <edge source="cuddlesy" target="irfankd" />
+    <edge source="UniverseCity" target="SMc-Twelve" />
+    <edge source="UniverseCity" target="someguyinMN" />
+    <edge source="vishalc16" target="only1parkjisung" />
+    <edge source="LunchPistol" target="dabasegawd" />
+    <edge source="int32_t" target="Datsyukdangelz" />
+    <edge source="txholdup" target="i-invest" />
+    <edge source="txholdup" target="RemmyColl" />
+    <edge source="semsr" target="stolenshamrock" />
+    <edge source="slightly_dehydrated" target="funkeepickle" />
+    <edge source="jerryondrums" target="xlledx" />
+    <edge source="jerryondrums" target="ThatOneGuyReddit" />
+    <edge source="Wreak_Peace" target="legalinvestor" />
+    <edge source="johnnyblac" target="MichaelLuciusJulian" />
+    <edge source="LzTangeL" target="lizhang" />
+    <edge source="LzTangeL" target="TakeTheShotStaaaan" />
+    <edge source="CautiousToaster" target="theHomers" />
+    <edge source="brazillion" target="seeallgood" />
+    <edge source="brazillion" target="bartturner" />
+    <edge source="brazillion" target="stopsayingsoccer" />
+    <edge source="brazillion" target="QU3NT4R" />
+    <edge source="moe10" target="Andyle604" />
+    <edge source="liekdisifucried" target="SDtoSF" />
+    <edge source="liekdisifucried" target="jonesrr" />
+    <edge source="SquareRoot" target="brucebwang" />
+    <edge source="rymarc" target="BenCasey1" />
+    <edge source="vanguard_alpha" target="adammjam" />
+    <edge source="vanguard_alpha" target="RemmyColl" />
+    <edge source="TypicalVillain" target="DRANKLE" />
+    <edge source="TypicalVillain" target="YouveBeenGundlached" />
+    <edge source="TypicalVillain" target="absoluteskeptic" />
+    <edge source="TypicalVillain" target="smokeyjay" />
+    <edge source="TypicalVillain" target="DougDons" />
+    <edge source="TypicalVillain" target="thatsatell" />
+    <edge source="brunes" target="Datsyukdangelz" />
+    <edge source="stringerbell" target="legalinvestor" />
+    <edge source="stringerbell" target="jonfla" />
+    <edge source="bryter-later" target="madking8" />
+    <edge source="madeituprightnow" target="purpl3_dinosaur" />
+    <edge source="Se7en_speed" target="redrobot5050" />
+    <edge source="Se7en_speed" target="Ahnteis" />
+    <edge source="cogman10" target="jonfla" />
+    <edge source="cogman10" target="kraetos" />
+    <edge source="tomoniki" target="Datsyukdangelz" />
+    <edge source="tomoniki" target="nickik" />
+    <edge source="JPOnion" target="adammjam" />
+    <edge source="ahminus" target="SDtoSF" />
+    <edge source="249ba36000029bbe9749" target="westmontblvd" />
+    <edge source="ajaykumaryada" target="rimlogger" />
+    <edge source="Areumdaun" target="CubSwanson" />
+    <edge source="Areumdaun" target="adammjam" />
+    <edge source="Areumdaun" target="cookingboy" />
+    <edge source="cantusethemain" target="madking8" />
+    <edge source="cantusethemain" target="i-invest" />
+    <edge source="00OO00" target="i-invest" />
+    <edge source="00OO00" target="brucebwang" />
+    <edge source="brucebwang" target="bartturner" />
+    <edge source="brucebwang" target="Assistants" />
+    <edge source="brucebwang" target="stolenshamrock" />
+    <edge source="brucebwang" target="i-invest" />
+    <edge source="brucebwang" target="only1parkjisung" />
+    <edge source="brucebwang" target="EthicalConcerns" />
+    <edge source="brucebwang" target="Simon_Inaki" />
+    <edge source="brucebwang" target="zachattack82" />
+    <edge source="WillTypeForKarma" target="i-invest" />
+    <edge source="WillTypeForKarma" target="adammjam" />
+    <edge source="WillTypeForKarma" target="ms7787" />
+    <edge source="WillTypeForKarma" target="SleepyConscience" />
+    <edge source="nows" target="bartturner" />
+    <edge source="nows" target="VotedOut" />
+    <edge source="nows" target="usb_lighter" />
+    <edge source="TerpZ" target="1Kanevil" />
+    <edge source="Chodrick" target="Andyle604" />
+    <edge source="Chodrick" target="kaji823" />
+    <edge source="Chodrick" target="trout007" />
+    <edge source="Chodrick" target="nemoTheKid" />
+    <edge source="misteryub" target="tmiw" />
+    <edge source="DSTxtcy" target="jonnygrifff" />
+    <edge source="DSTxtcy" target="_stock_bot_" />
+    <edge source="throawaydev" target="fruit_stand_employee" />
+    <edge source="throawaydev" target="greenlamp90" />
+    <edge source="btmc" target="adammjam" />
+    <edge source="btmc" target="laminak" />
+    <edge source="atcoyou" target="tabswhore" />
+    <edge source="atcoyou" target="SDtoSF" />
+    <edge source="legalinvestor" target="poopascoopa69" />
+    <edge source="legalinvestor" target="sirdevinstine" />
+    <edge source="legalinvestor" target="Ertaipt" />
+    <edge source="legalinvestor" target="Manny_Bothans" />
+    <edge source="legalinvestor" target="Phalanges_Sex" />
+    <edge source="legalinvestor" target="James161324" />
+    <edge source="legalinvestor" target="TheRealAntacular" />
+    <edge source="legalinvestor" target="jbilsten" />
+    <edge source="legalinvestor" target="Ton86" />
+    <edge source="legalinvestor" target="jazzyzaz" />
+    <edge source="legalinvestor" target="stop_the_broats" />
+    <edge source="legalinvestor" target="ShadowHandler" />
+    <edge source="legalinvestor" target="GhostofTrundle" />
+    <edge source="legalinvestor" target="ryanmercer" />
+    <edge source="legalinvestor" target="Johnny182" />
+    <edge source="legalinvestor" target="lutz81" />
+    <edge source="legalinvestor" target="vfrbub" />
+    <edge source="antwan718" target="RemmyColl" />
+    <edge source="casualoptionstrader" target="yolotrader" />
+    <edge source="casualoptionstrader" target="CHAINSAW_VASECTOMY" />
+    <edge source="casualoptionstrader" target="MyFleetingDream" />
+    <edge source="YounggMoney" target="Mrknowitall666" />
+    <edge source="YounggMoney" target="ra__account" />
+    <edge source="YounggMoney" target="theHomers" />
+    <edge source="YounggMoney" target="moumouren" />
+    <edge source="YounggMoney" target="alisonstone" />
+    <edge source="YounggMoney" target="DabberErrl" />
+    <edge source="tootie" target="Andyle604" />
+    <edge source="Aricherstate" target="seeallgood" />
+    <edge source="Aricherstate" target="stopsayingsoccer" />
+    <edge source="Aricherstate" target="poopmast" />
+    <edge source="fysoIo" target="Y3808" />
+    <edge source="fysoIo" target="fsyolo" />
+    <edge source="hivoltage815" target="adammjam" />
+    <edge source="180south" target="Carlsinoc" />
+    <edge source="180south" target="playingAAPL" />
+    <edge source="180south" target="sarcasticrodent" />
+    <edge source="180south" target="luffintlimme" />
+    <edge source="180south" target="IronTek" />
+    <edge source="ihatechange" target="hornstien" />
+    <edge source="NewtonianCooking" target="cowboyhaze" />
+    <edge source="NewtonianCooking" target="bartturner" />
+    <edge source="DeeDee_Z" target="hydrocyanide" />
+    <edge source="kaji823" target="Andyle604" />
+    <edge source="Auzy" target="jonfla" />
+    <edge source="Auzy" target="kirklennon" />
+    <edge source="righty" target="KSUWildcats" />
+    <edge source="toddbbot" target="westmontblvd" />
+    <edge source="OrganicTreats" target="SDtoSF" />
+    <edge source="ghostabdi" target="adammjam" />
+    <edge source="ghostabdi" target="hydrocyanide" />
+    <edge source="dafones" target="azaza_oazaza" />
+    <edge source="Valtyr8" target="e_step" />
+    <edge source="dunker" target="helpmelearn20" />
+    <edge source="dunker" target="IDontCareForTurtles" />
+    <edge source="dunker" target="losemoneywithenemies" />
+    <edge source="Zeedude22" target="adammjam" />
+    <edge source="purpl3_dinosaur" target="shortAAPL" />
+    <edge source="purpl3_dinosaur" target="FISTFUCKMYDICKHOLE" />
+    <edge source="purpl3_dinosaur" target="redcards" />
+    <edge source="purpl3_dinosaur" target="moumouren" />
+    <edge source="purpl3_dinosaur" target="ericN" />
+    <edge source="purpl3_dinosaur" target="HarrisonGourd" />
+    <edge source="purpl3_dinosaur" target="sethklarman" />
+    <edge source="belovedkid" target="westmontblvd" />
+    <edge source="belovedkid" target="GroundhogExpert" />
+    <edge source="justthrowmeout" target="theHomers" />
+    <edge source="LonghornzR4Real" target="funkeepickle" />
+    <edge source="neofatalist" target="el_el" />
+    <edge source="neofatalist" target="-kingmaker" />
+    <edge source="neofatalist" target="ryanmercer" />
+    <edge source="theHomers" target="roue_" />
+    <edge source="theHomers" target="QU3NT4R" />
+    <edge source="theHomers" target="StoneCloud" />
+    <edge source="theHomers" target="neilc" />
+    <edge source="theHomers" target="chipmunk7000" />
+    <edge source="theHomers" target="Ahueh" />
+    <edge source="theHomers" target="akmalhot" />
+    <edge source="theHomers" target="mirinrustles" />
+    <edge source="theHomers" target="programmingguy" />
+    <edge source="theHomers" target="Just-A-Story" />
+    <edge source="theHomers" target="bartturner" />
+    <edge source="theHomers" target="cookingboy" />
+    <edge source="andrewrsorkin" target="kirklennon" />
+    <edge source="Datsyukdangelz" target="Heavenfall" />
+    <edge source="Datsyukdangelz" target="Wojiz" />
+    <edge source="Datsyukdangelz" target="HenkieVV" />
+    <edge source="Datsyukdangelz" target="nickik" />
+    <edge source="Datsyukdangelz" target="centurion44" />
+    <edge source="Datsyukdangelz" target="sonicmerlin" />
+    <edge source="Datsyukdangelz" target="UserNumber42" />
+    <edge source="Datsyukdangelz" target="KrayonFisher" />
+    <edge source="Datsyukdangelz" target="cyancynic" />
+    <edge source="Datsyukdangelz" target="AWoodenFishOnWheels" />
+    <edge source="Datsyukdangelz" target="thebedshow" />
+    <edge source="Datsyukdangelz" target="KexanR" />
+    <edge source="Datsyukdangelz" target="bricolagefantasy" />
+    <edge source="Datsyukdangelz" target="leostotch" />
+    <edge source="Datsyukdangelz" target="Sayer101" />
+    <edge source="Datsyukdangelz" target="BigSlowTarget" />
+    <edge source="Datsyukdangelz" target="stealthzeus" />
+    <edge source="playingAAPL" target="MichaelLuciusJulian" />
+    <edge source="laroadwarrior" target="i-invest" />
+    <edge source="uh-okay-I-guess" target="PurpleTulip9" />
+    <edge source="uh-okay-I-guess" target="medatascientist" />
+    <edge source="decimalplaces" target="kirklennon" />
+    <edge source="jldugger" target="KSUWildcats" />
+    <edge source="Mattabeedeez" target="only1parkjisung" />
+    <edge source="cantstoplaughin" target="TominatorXX" />
+    <edge source="mkhural" target="adammjam" />
+    <edge source="leevs11" target="azaza_oazaza" />
+    <edge source="tkornfeld" target="madking8" />
+    <edge source="GhostofTrundle" target="bartturner" />
+    <edge source="GhostofTrundle" target="SDtoSF" />
+    <edge source="hydrocyanide" target="adammjam" />
+    <edge source="hydrocyanide" target="footlong24seven" />
+    <edge source="hydrocyanide" target="mohi666" />
+    <edge source="hydrocyanide" target="RemmyColl" />
+    <edge source="FishyFred" target="dirteemac" />
+    <edge source="FishyFred" target="inversend" />
+    <edge source="FishyFred" target="Out_of_Chicken" />
+    <edge source="nwredditguy" target="jarrit0s" />
+    <edge source="cowboyhaze" target="bartturner" />
+    <edge source="Eriamjh1138" target="adammjam" />
+    <edge source="SpyWhat" target="bartturner" />
+    <edge source="AllanBz" target="Simon_Inaki" />
+    <edge source="Theta_Zero" target="PurpleTulip9" />
+    <edge source="Theta_Zero" target="RemmyColl" />
+    <edge source="Theta_Zero" target="mr_twitch" />
+    <edge source="Theta_Zero" target="nomkiwi" />
+    <edge source="Theta_Zero" target="bonghits96" />
+    <edge source="Cock_unblocker" target="I_FUCK_UP_RECIPES" />
+    <edge source="evolvedtomato" target="guptron" />
+    <edge source="mikesetera" target="GaryBarton" />
+    <edge source="CrasyMike" target="BountyHunting4Trolls" />
+    <edge source="dudewithpants" target="nolancamp2" />
+    <edge source="dudewithpants" target="munky9002" />
+    <edge source="getridofwires" target="M0neyTrees" />
+    <edge source="getridofwires" target="bonghits96" />
+    <edge source="AndrewS42" target="fireandnoise" />
+    <edge source="AndrewS42" target="bartturner" />
+    <edge source="ddplz" target="JPoor_The2nd" />
+    <edge source="ddplz" target="foulpudding" />
+    <edge source="DukeCanada" target="TwopackShaker" />
+    <edge source="DukeCanada" target="MrMcJrMan" />
+    <edge source="VotedOut" target="i960" />
+    <edge source="VotedOut" target="mohi666" />
+    <edge source="bigbadberry3" target="-er" />
+    <edge source="AWoodenFishOnWheels" target="sonicmerlin" />
+    <edge source="trout007" target="Andyle604" />
+    <edge source="iamsorrydontban" target="madking8" />
+    <edge source="jonesrr" target="SDtoSF" />
+    <edge source="jonesrr" target="adammjam" />
+    <edge source="jonesrr" target="shrimpy1" />
+    <edge source="jonesrr" target="s54b32dd" />
+    <edge source="jonesrr" target="ryanmercer" />
+    <edge source="jonesrr" target="spasmystic" />
+    <edge source="jonesrr" target="st0815" />
+    <edge source="farzyness" target="WhiteBoythatCantJump" />
+    <edge source="poophead_" target="madking8" />
+    <edge source="HenkieVV" target="Heavenfall" />
+    <edge source="helpmelearn20" target="PurpleTulip9" />
+    <edge source="helpmelearn20" target="adammjam" />
+    <edge source="ConnorBoyd" target="BenCasey1" />
+    <edge source="kernel_picnic" target="tobygreenbacking" />
+    <edge source="MpVpRb" target="westmontblvd" />
+    <edge source="oppy1984" target="kirklennon" />
+    <edge source="DRANKLE" target="hedgefundaspirations" />
+    <edge source="Fap-0-matic" target="eigenman" />
+    <edge source="Fap-0-matic" target="tmiw" />
+    <edge source="PurpleTulip9" target="nilamo" />
+    <edge source="PurpleTulip9" target="medatascientist" />
+    <edge source="PurpleTulip9" target="abrikos" />
+    <edge source="jwarsenal9" target="firechill2004" />
+    <edge source="funkeepickle" target="only1parkjisung" />
+    <edge source="funkeepickle" target="Slave_to_Logic" />
+    <edge source="gypsy4" target="knatxxx" />
+    <edge source="gypsy4" target="jlew24asu" />
+    <edge source="UTFishOutOfWater" target="hornstien" />
+    <edge source="rs2k2" target="tmiw" />
+    <edge source="rs2k2" target="kirklennon" />
+    <edge source="keegs13" target="BryGuy81" />
+    <edge source="c0mputar" target="AriSparkz" />
+    <edge source="c0mputar" target="Y3808" />
+    <edge source="sad_bug_killer" target="TheMysteryBlueFlame" />
+    <edge source="sad_bug_killer" target="cyancynic" />
+    <edge source="Namika" target="TheMysteryBlueFlame" />
+    <edge source="patriciapreseren" target="autotldr" />
+    <edge source="mohi666" target="coltsfan63" />
+    <edge source="mohi666" target="montood" />
+    <edge source="mohi666" target="ir0nli0nzi0n" />
+    <edge source="mohi666" target="foulpudding" />
+    <edge source="mohi666" target="bradfromearth" />
+    <edge source="mohi666" target="compounding" />
+    <edge source="mohi666" target="z500zag" />
+    <edge source="mohi666" target="Freedom247365" />
+    <edge source="mohi666" target="phys1cist" />
+    <edge source="mohi666" target="kngnk" />
+    <edge source="mohi666" target="Kim-Jong-Skill" />
+    <edge source="mohi666" target="chowfoon" />
+    <edge source="mohi666" target="adammjam" />
+    <edge source="jlew24asu" target="azaza_oazaza" />
+    <edge source="Zifnab25" target="azaza_oazaza" />
+    <edge source="FlexboxAiken" target="AriSparkz" />
+    <edge source="FlexboxAiken" target="HateWalmartWolverine" />
+    <edge source="FlexboxAiken" target="thefullernator" />
+    <edge source="an_internet_denizen" target="adammjam" />
+    <edge source="joeflux" target="TheMysteryBlueFlame" />
+    <edge source="Freedom247365" target="MrJC666" />
+    <edge source="SMc-Twelve" target="hedgefundaspirations" />
+    <edge source="SMc-Twelve" target="ObservationalHumor" />
+    <edge source="SMc-Twelve" target="someguyinMN" />
+    <edge source="SMc-Twelve" target="westmontblvd" />
+    <edge source="SMc-Twelve" target="bartturner" />
+    <edge source="Phalanges_Sex" target="Manny_Bothans" />
+    <edge source="cipherous" target="westmontblvd" />
+    <edge source="cipherous" target="eykanspelgud" />
+    <edge source="djbdom" target="bartturner" />
+    <edge source="Iperzampem0" target="enassif" />
+    <edge source="richmonds1" target="bceagle411" />
+    <edge source="chowfoon" target="Jemmani" />
+    <edge source="UserNumber42" target="cyancynic" />
+    <edge source="SomeGuyInOttawa" target="guptron" />
+    <edge source="ilovetabasco" target="madking8" />
+    <edge source="ilovetabasco" target="moumouren" />
+    <edge source="nekrad" target="fruit_stand_employee" />
+    <edge source="wontfixnow" target="seeallgood" />
+    <edge source="wontfixnow" target="canadian_golfer" />
+    <edge source="baby_mike" target="madking8" />
+    <edge source="Banker928" target="ILOLyouLOLweallLOLOL" />
+    <edge source="shortbitcoin" target="BenCasey1" />
+    <edge source="shortbitcoin" target="kjuneja" />
+    <edge source="brian21" target="adammjam" />
+    <edge source="ExtremelyQualified" target="adammjam" />
+    <edge source="ExtremelyQualified" target="i-invest" />
+    <edge source="ExtremelyQualified" target="crayfordo151" />
+    <edge source="cqm" target="TakeTheShotStaaaan" />
+    <edge source="fortworthfroggie" target="adammjam" />
+    <edge source="SoemthingFunny" target="tobygreenbacking" />
+    <edge source="SoemthingFunny" target="crayfordo151" />
+    <edge source="SoemthingFunny" target="getithot" />
+    <edge source="SoemthingFunny" target="badwolf" />
+    <edge source="stopsayingsoccer" target="seeallgood" />
+    <edge source="ms7787" target="i-invest" />
+    <edge source="ms7787" target="crayfordo151" />
+    <edge source="wanmoar" target="theinvestingblog" />
+    <edge source="wanmoar" target="adammjam" />
+    <edge source="wanmoar" target="matts534" />
+    <edge source="TBP_Doxxing_Victim" target="thatoneguys" />
+    <edge source="munky9002" target="Carlsinoc" />
+    <edge source="munky9002" target="theinvestingblog" />
+    <edge source="ZGiSH" target="daspence742" />
+    <edge source="SuccessAndSerenity" target="MILES_FOR_TITS" />
+    <edge source="fiercelyfriendly" target="TheMysteryBlueFlame" />
+    <edge source="fsyolo" target="BenCasey1" />
+    <edge source="fsyolo" target="GaryBarton" />
+    <edge source="fsyolo" target="jartek" />
+    <edge source="fsyolo" target="nowaibro" />
+    <edge source="fsyolo" target="ineedhelpwithinvest" />
+    <edge source="fsyolo" target="TakeTheShotStaaaan" />
+    <edge source="fsyolo" target="chaosandfury84" />
+    <edge source="fsyolo" target="Y3808" />
+    <edge source="fsyolo" target="GT_Spec_B" />
+    <edge source="fsyolo" target="only1parkjisung" />
+    <edge source="FranzNO3" target="seeallgood" />
+    <edge source="NotDaPunk" target="BenCasey1" />
+    <edge source="taelor" target="azaza_oazaza" />
+    <edge source="prithvisri" target="adammjam" />
+    <edge source="prithvisri" target="CommunismIsLove" />
+    <edge source="prithvisri" target="toggaf69" />
+    <edge source="Fantasticfatcat" target="westmontblvd" />
+    <edge source="Error400BadRequest" target="azaza_oazaza" />
+    <edge source="Error400BadRequest" target="Terrierpike" />
+    <edge source="saml01" target="BenCasey1" />
+    <edge source="saml01" target="stranger_here_myself" />
+    <edge source="westmontblvd" target="eigenman" />
+    <edge source="westmontblvd" target="bartturner" />
+    <edge source="westmontblvd" target="eykanspelgud" />
+    <edge source="westmontblvd" target="buddybd" />
+    <edge source="westmontblvd" target="Nexum" />
+    <edge source="westmontblvd" target="FlappyBored" />
+    <edge source="westmontblvd" target="-_eeeeee_-" />
+    <edge source="westmontblvd" target="liketheherp" />
+    <edge source="westmontblvd" target="FANGO" />
+    <edge source="westmontblvd" target="ShellInTheGhost" />
+    <edge source="westmontblvd" target="GroundhogExpert" />
+    <edge source="westmontblvd" target="yuzirnayme" />
+    <edge source="westmontblvd" target="NotADamsel" />
+    <edge source="westmontblvd" target="ViperRT10Matt" />
+    <edge source="westmontblvd" target="w1_m2" />
+    <edge source="westmontblvd" target="anonagent" />
+    <edge source="investinggoals" target="SDtoSF" />
+    <edge source="investinggoals" target="roue_" />
+    <edge source="Kashik" target="graciouspatty" />
+    <edge source="MrPotatoSmegma" target="azaza_oazaza" />
+    <edge source="MrPotatoSmegma" target="MustacheDanger" />
+    <edge source="haxbro14" target="i-invest" />
+    <edge source="badwolf" target="tobygreenbacking" />
+    <edge source="glove0102" target="CHAINSAW_VASECTOMY" />
+    <edge source="buickandolds" target="TheMysteryBlueFlame" />
+    <edge source="mercyandgrace" target="M0neyTrees" />
+    <edge source="mercyandgrace" target="bonghits96" />
+    <edge source="poopmast" target="seeallgood" />
+    <edge source="RemmyColl" target="cookingboy" />
+    <edge source="RemmyColl" target="bonghits96" />
+    <edge source="RemmyColl" target="poorboytrader" />
+    <edge source="RemmyColl" target="TwopackShaker" />
+    <edge source="RemmyColl" target="tekdemon" />
+    <edge source="HateWalmartWolverine" target="MyFleetingDream" />
+    <edge source="HateWalmartWolverine" target="Y3808" />
+    <edge source="HateWalmartWolverine" target="wutangfin" />
+    <edge source="HateWalmartWolverine" target="hiphoprising" />
+    <edge source="cb_hanson" target="adammjam" />
+    <edge source="crayfordo151" target="hornstien" />
+    <edge source="crayfordo151" target="tobygreenbacking" />
+    <edge source="crayfordo151" target="i-invest" />
+    <edge source="crayfordo151" target="DGW" />
+    <edge source="crayfordo151" target="getithot" />
+    <edge source="crayfordo151" target="EscortSportage" />
+    <edge source="crayfordo151" target="Benjammin822" />
+    <edge source="polnikes" target="adammjam" />
+    <edge source="Delkomatic" target="BenCasey1" />
+    <edge source="Delkomatic" target="KSUWildcats" />
+    <edge source="Zetavu" target="KSUWildcats" />
+    <edge source="Zetavu" target="Yangoose" />
+    <edge source="Zetavu" target="cuteman" />
+    <edge source="irfankd" target="seeallgood" />
+    <edge source="kjuneja" target="BenCasey1" />
+    <edge source="actuallyinvesting" target="adammjam" />
+    <edge source="actuallyinvesting" target="Prettyniceguytoo" />
+    <edge source="actuallyinvesting" target="TheRealAntacular" />
+    <edge source="el_el" target="-kingmaker" />
+    <edge source="el_el" target="chaosandfury84" />
+    <edge source="el_el" target="ryanmercer" />
+    <edge source="el_el" target="PlCKLES" />
+    <edge source="Bemuzed" target="autotldr" />
+    <edge source="tomsun100" target="1Kanevil" />
+    <edge source="typicalwsbnoob" target="illuminerdi" />
+    <edge source="dvdmovie1a" target="e_step" />
+    <edge source="zimm0who0net" target="KSUWildcats" />
+    <edge source="MrJC666" target="easy_like_sunday" />
+    <edge source="MrJC666" target="dabasegawd" />
+    <edge source="MrJC666" target="Jeter21881" />
+    <edge source="BountyHunting4Trolls" target="TheRealAntacular" />
+    <edge source="BountyHunting4Trolls" target="RainbowDasher" />
+    <edge source="BountyHunting4Trolls" target="wefarrell" />
+    <edge source="BountyHunting4Trolls" target="e_step" />
+    <edge source="BountyHunting4Trolls" target="ivymikey" />
+    <edge source="MILES_FOR_TITS" target="dangerhaynes" />
+    <edge source="whythehellamihere" target="ichosethis" />
+    <edge source="whythehellamihere" target="peace_love_mcl" />
+    <edge source="whythehellamihere" target="madman86" />
+    <edge source="whythehellamihere" target="bedgar" />
+    <edge source="akmalhot" target="roue_" />
+    <edge source="roue_" target="madking8" />
+    <edge source="roue_" target="SDtoSF" />
+    <edge source="roue_" target="wolfram184" />
+    <edge source="mship" target="bartturner" />
+    <edge source="2diceMisplaced" target="TheMysteryBlueFlame" />
+    <edge source="veninvillifishy" target="Andyle604" />
+    <edge source="moumouren" target="madking8" />
+    <edge source="moumouren" target="theinvestingblog" />
+    <edge source="laminak" target="adammjam" />
+    <edge source="Gizlo" target="WilliamW78" />
+    <edge source="Gizlo" target="rimlogger" />
+    <edge source="Gizlo" target="Biwin" />
+    <edge source="Gizlo" target="proptrader123" />
+    <edge source="Gizlo" target="destroythenseek" />
+    <edge source="foggybottom" target="adammjam" />
+    <edge source="ENGR_Demosthenes" target="adammjam" />
+    <edge source="QU3NT4R" target="bartturner" />
+    <edge source="twentytwodividedby7" target="adammjam" />
+    <edge source="help_so_much_money" target="fruit_stand_employee" />
+    <edge source="Its_All_In_The_Game" target="TheRealAntacular" />
+    <edge source="Platanokid" target="markf298" />
+    <edge source="Platanokid" target="Metacog_Drivel" />
+    <edge source="Platanokid" target="JamesAQuintero" />
+    <edge source="Platanokid" target="bonghits96" />
+    <edge source="Platanokid" target="bradfromearth" />
+    <edge source="Platanokid" target="chaosandfury84" />
+    <edge source="hfutrell" target="firechill2004" />
+    <edge source="TakeTheShotStaaaan" target="GT_Spec_B" />
+    <edge source="TakeTheShotStaaaan" target="only1parkjisung" />
+    <edge source="TakeTheShotStaaaan" target="thelim3y" />
+    <edge source="TakeTheShotStaaaan" target="daspence742" />
+    <edge source="FireOpal" target="tobygreenbacking" />
+    <edge source="potato1" target="azaza_oazaza" />
+    <edge source="CHAINSAW_VASECTOMY" target="PlCKLES" />
+    <edge source="bartturner" target="TheMysteryBlueFlame" />
+    <edge source="bartturner" target="Slave_to_Logic" />
+    <edge source="bartturner" target="pheen" />
+    <edge source="bartturner" target="thebutz" />
+    <edge source="bartturner" target="kirklennon" />
+    <edge source="bartturner" target="gatea" />
+    <edge source="bartturner" target="taa_123" />
+    <edge source="bartturner" target="antiproton" />
+    <edge source="bartturner" target="zawmbie5" />
+    <edge source="bartturner" target="ManillaVan" />
+    <edge source="bartturner" target="rossagessausage" />
+    <edge source="bartturner" target="M0b1u5" />
+    <edge source="bartturner" target="FANGO" />
+    <edge source="skankingmike" target="jonfla" />
+    <edge source="skankingmike" target="nemoomen" />
+    <edge source="FISTFUCKMYDICKHOLE" target="shortAAPL" />
+    <edge source="EmuTribe" target="Kim-Jong-Skill" />
+    <edge source="EmuTribe" target="catsfive" />
+    <edge source="EmuTribe" target="madking8" />
+    <edge source="EmuTribe" target="tobygreenbacking" />
+    <edge source="EmuTribe" target="ecography" />
+    <edge source="EmuTribe" target="likwid07" />
+    <edge source="EmuTribe" target="Countdown216" />
+    <edge source="eigenman" target="ADHDassassin" />
+    <edge source="eigenman" target="tmiw" />
+    <edge source="eigenman" target="Questionssm" />
+    <edge source="eigenman" target="ryanmercer" />
+    <edge source="thatoneguys" target="autotldr" />
+    <edge source="13104598210" target="chaosandfury84" />
+    <edge source="13104598210" target="guptron" />
+    <edge source="13104598210" target="Countdown216" />
+    <edge source="KSUWildcats" target="berlinbrown" />
+    <edge source="KSUWildcats" target="Yangoose" />
+    <edge source="KSUWildcats" target="cuteman" />
+    <edge source="KSUWildcats" target="dza76wutang" />
+    <edge source="KSUWildcats" target="WCC335" />
+    <edge source="KSUWildcats" target="jeffreyrufino" />
+    <edge source="KSUWildcats" target="eetsumkaus" />
+    <edge source="KSUWildcats" target="mattindustries" />
+    <edge source="KSUWildcats" target="aardvarkious" />
+    <edge source="benevolinsolence" target="Andyle604" />
+    <edge source="benevolinsolence" target="iJeff" />
+    <edge source="I_FUCK_UP_RECIPES" target="Y3808" />
+    <edge source="JerkyChew" target="azaza_oazaza" />
+    <edge source="civex" target="jonfla" />
+    <edge source="MustacheDanger" target="azaza_oazaza" />
+    <edge source="MustacheDanger" target="elcalrissian" />
+    <edge source="MustacheDanger" target="Terrierpike" />
+    <edge source="SanDiegoDude" target="azaza_oazaza" />
+    <edge source="SanDiegoDude" target="elcalrissian" />
+    <edge source="madking8" target="HarrisonGourd" />
+    <edge source="madking8" target="xlledx" />
+    <edge source="madking8" target="miketeeeveee" />
+    <edge source="madking8" target="wolfram184" />
+    <edge source="madking8" target="PatFlynnEire" />
+    <edge source="Resin8" target="-er" />
+    <edge source="Resin8" target="notasgoodasoral" />
+    <edge source="Resin8" target="Zedlok" />
+    <edge source="BrainInAJar" target="BenCasey1" />
+    <edge source="SelvedgeLeopard" target="BenCasey1" />
+    <edge source="SelvedgeLeopard" target="adammjam" />
+    <edge source="THUMB5UP" target="SDtoSF" />
+    <edge source="Insanepenguin91" target="enassif" />
+    <edge source="adammjam" target="doougle" />
+    <edge source="adammjam" target="RUS_Hustler" />
+    <edge source="adammjam" target="guptron" />
+    <edge source="adammjam" target="greenlamp90" />
+    <edge source="adammjam" target="_Cream_Corn_" />
+    <edge source="adammjam" target="AsaKurai" />
+    <edge source="adammjam" target="wretcheddawn" />
+    <edge source="adammjam" target="BardownBeauty" />
+    <edge source="adammjam" target="CommunismIsLove" />
+    <edge source="adammjam" target="spasmystic" />
+    <edge source="adammjam" target="st0815" />
+    <edge source="adammjam" target="subiklim" />
+    <edge source="adammjam" target="Martin_Samuelson" />
+    <edge source="adammjam" target="toggaf69" />
+    <edge source="adammjam" target="Prettyniceguytoo" />
+    <edge source="adammjam" target="PCGamingOppression" />
+    <edge source="adammjam" target="DTon772" />
+    <edge source="adammjam" target="Points_To_You" />
+    <edge source="adammjam" target="cookingboy" />
+    <edge source="adammjam" target="ex_nihilo" />
+    <edge source="adammjam" target="matts534" />
+    <edge source="adammjam" target="TheRealAntacular" />
+    <edge source="adammjam" target="miketeeeveee" />
+    <edge source="adammjam" target="SleepyConscience" />
+    <edge source="adammjam" target="cfadeveloper" />
+    <edge source="adammjam" target="ObservationalHumor" />
+    <edge source="adammjam" target="HarrisonGourd" />
+    <edge source="adammjam" target="BigSpooky" />
+    <edge source="wolfram184" target="catsfive" />
+    <edge source="ray1202" target="ex_nihilo" />
+    <edge source="1Kanevil" target="SDtoSF" />
+    <edge source="dabasegawd" target="HansMannibus" />
+    <edge source="dabasegawd" target="stockspikes" />
+    <edge source="TheRealAntacular" target="-Chatsky-" />
+    <edge source="TheRealAntacular" target="stockspikes" />
+    <edge source="FlappyBored" target="GroundhogExpert" />
+    <edge source="JPoor_The2nd" target="only1parkjisung" />
+    <edge source="JPoor_The2nd" target="JamesAQuintero" />
+    <edge source="JPoor_The2nd" target="foulpudding" />
+    <edge source="JPoor_The2nd" target="fsnotsurewhatdo" />
+    <edge source="hedgefundaspirations" target="Slave_to_Logic" />
+    <edge source="stockspikes" target="shazoocow" />
+    <edge source="stockspikes" target="innerscorecard" />
+    <edge source="PortfolioCancer" target="only1parkjisung" />
+    <edge source="Metacog_Drivel" target="BATHTUBSURFER" />
+    <edge source="JamesAQuintero" target="Simon_Inaki" />
+    <edge source="gmtjr" target="IronTek" />
+    <edge source="i-invest" target="jeansaddiction" />
+    <edge source="i-invest" target="ghettobacon" />
+    <edge source="i-invest" target="programmingguy" />
+    <edge source="i-invest" target="Benjammin822" />
+    <edge source="i-invest" target="kickstand" />
+    <edge source="i-invest" target="queeftontarantino" />
+    <edge source="i-invest" target="ifailatusernames" />
+    <edge source="i-invest" target="ericN" />
+    <edge source="i-invest" target="BRazenVenture" />
+    <edge source="i-invest" target="AnimeEd" />
+    <edge source="i-invest" target="ObservationalHumor" />
+    <edge source="i-invest" target="ryanmercer" />
+    <edge source="bonghits96" target="M0neyTrees" />
+    <edge source="bonghits96" target="MichaelLuciusJulian" />
+    <edge source="bonghits96" target="sausalitoturkeyface" />
+    <edge source="bonghits96" target="cookingboy" />
+    <edge source="bonghits96" target="poorboytrader" />
+    <edge source="bonghits96" target="TwopackShaker" />
+    <edge source="tmiw" target="Frewchen" />
+    <edge source="ViperRT10Matt" target="GroundhogExpert" />
+    <edge source="internet_poster" target="fruit_stand_employee" />
+    <edge source="Huntred" target="azaza_oazaza" />
+    <edge source="yolotrader" target="Simon_Inaki" />
+    <edge source="Nexum" target="-_eeeeee_-" />
+    <edge source="TominatorXX" target="dregan" />
+    <edge source="TominatorXX" target="DOWNV0TET0OBLIVI0N" />
+    <edge source="fruit_stand_employee" target="tubaleiter" />
+    <edge source="fruit_stand_employee" target="greenlamp90" />
+    <edge source="fruit_stand_employee" target="Charmander_Throwaway" />
+    <edge source="Zedlok" target="-er" />
+    <edge source="blueliner17" target="seeallgood" />
+    <edge source="catsfive" target="rimlogger" />
+    <edge source="catsfive" target="rossagessausage" />
+    <edge source="catsfive" target="KingSnuggleMuffin" />
+    <edge source="kirklennon" target="jarrit0s" />
+    <edge source="kirklennon" target="DanaBlue" />
+    <edge source="kirklennon" target="seeallgood" />
+    <edge source="kirklennon" target="thebutz" />
+    <edge source="kirklennon" target="redrobot5050" />
+    <edge source="Arve" target="TheMysteryBlueFlame" />
+    <edge source="Fittyakaferrari" target="autotldr" />
+    <edge source="McBeers" target="notasgoodasoral" />
+    <edge source="jarrit0s" target="JokerPlay" />
+    <edge source="poopascoopa69" target="ryanmercer" />
+    <edge source="redrobot5050" target="knatxxx" />
+    <edge source="jaghataikhan" target="firechill2004" />
+    <edge source="seeallgood" target="tangman" />
+    <edge source="seeallgood" target="canadian_golfer" />
+    <edge source="seeallgood" target="xlledx" />
+    <edge source="seeallgood" target="skimmer" />
+    <edge source="seeallgood" target="Assistants" />
+    <edge source="seeallgood" target="ss847859" />
+    <edge source="seeallgood" target="EnergyMonkey" />
+    <edge source="seeallgood" target="dimensional_dan" />
+    <edge source="seeallgood" target="medatascientist" />
+    <edge source="TheRama" target="firechill2004" />
+    <edge source="ur_all_nubs" target="tobygreenbacking" />
+    <edge source="HealthcareEconomist3" target="azaza_oazaza" />
+    <edge source="hoyeay" target="TheMysteryBlueFlame" />
+    <edge source="EthicalConcerns" target="zachattack82" />
+    <edge source="cuteman" target="BenCasey1" />
+    <edge source="cuteman" target="kesselvon" />
+    <edge source="cuteman" target="dza76wutang" />
+    <edge source="tabswhore" target="RTiger" />
+    <edge source="rockyrainy" target="BenCasey1" />
+    <edge source="BenCasey1" target="textbandit" />
+    <edge source="BenCasey1" target="stranger_here_myself" />
+    <edge source="BenCasey1" target="LemonHerb" />
+    <edge source="BenCasey1" target="Gaolbreaker" />
+    <edge source="BenCasey1" target="kesselvon" />
+    <edge source="BenCasey1" target="Dom9360" />
+    <edge source="BenCasey1" target="HankTheWu" />
+    <edge source="BenCasey1" target="chaosandfury84" />
+    <edge source="shortAAPL" target="backspread" />
+    <edge source="shortAAPL" target="graciouspatty" />
+    <edge source="shortAAPL" target="Simon_Inaki" />
+    <edge source="shortAAPL" target="redcards" />
+    <edge source="shortAAPL" target="phybere" />
+    <edge source="GaryBarton" target="howmanypoints" />
+    <edge source="GaryBarton" target="autotldr" />
+    <edge source="enassif" target="ss847859" />
+    <edge source="guhhuh" target="HarrisonGourd" />
+    <edge source="guhhuh" target="Atheists_Are_Annoyin" />
+    <edge source="nemoomen" target="jonfla" />
+    <edge source="nemoomen" target="klaiere" />
+    <edge source="LegSpinner" target="Andyle604" />
+    <edge source="jcy" target="Andyle604" />
+    <edge source="cyancynic" target="TheMysteryBlueFlame" />
+    <edge source="only1parkjisung" target="MichaelLuciusJulian" />
+    <edge source="only1parkjisung" target="edi25" />
+    <edge source="trutommo" target="bradfromearth" />
+    <edge source="mrMouseR" target="SDtoSF" />
+    <edge source="dramamoose" target="azaza_oazaza" />
+    <edge source="ShellInTheGhost" target="eykanspelgud" />
+    <edge source="mirzawalrus" target="azaza_oazaza" />
+    <edge source="splat313" target="throwawaystockpaa" />
+    <edge source="saywhaaaat" target="jonfla" />
+    <edge source="jsblk3000" target="californiarepublik" />
+    <edge source="kraetos" target="jonfla" />
+    <edge source="Gaolbreaker" target="LemonHerb" />
+    <edge source="nemoTheKid" target="Andyle604" />
+    <edge source="jonfla" target="klaiere" />
+    <edge source="jonfla" target="HaiKarate" />
+    <edge source="jonfla" target="SGCleveland" />
+    <edge source="jonfla" target="bharder" />
+    <edge source="jonfla" target="frogking" />
+    <edge source="jonfla" target="k4f123" />
+    <edge source="jonfla" target="autotldr" />
+    <edge source="Clown_Shoe" target="TheMysteryBlueFlame" />
+    <edge source="Radico87" target="TheMysteryBlueFlame" />
+    <edge source="SDtoSF" target="shrimpy1" />
+    <edge source="SDtoSF" target="foulpudding" />
+    <edge source="SDtoSF" target="s54b32dd" />
+    <edge source="SDtoSF" target="alisonstone" />
+    <edge source="SDtoSF" target="ryanmercer" />
+    <edge source="SDtoSF" target="gobol" />
+    <edge source="SDtoSF" target="HansMannibus" />
+    <edge source="Simon_Inaki" target="stolenshamrock" />
+    <edge source="Simon_Inaki" target="phybere" />
+    <edge source="Simon_Inaki" target="ex_nihilo" />
+    <edge source="xlledx" target="-Chatsky-" />
+    <edge source="xlledx" target="OhMyMemories" />
+    <edge source="w1_m2" target="buddybd" />
+    <edge source="foulpudding" target="HansMannibus" />
+    <edge source="likwid07" target="tobygreenbacking" />
+    <edge source="NYKyle610" target="LamarHusky" />
+    <edge source="luffintlimme" target="Carlsinoc" />
+    <edge source="yuzirnayme" target="eykanspelgud" />
+    <edge source="BryGuy81" target="ThatOneGuyReddit" />
+    <edge source="savantness" target="Stockguy777" />
+    <edge source="tobygreenbacking" target="kittykatzmeowmeow" />
+    <edge source="tobygreenbacking" target="EscortSportage" />
+    <edge source="tobygreenbacking" target="getithot" />
+    <edge source="thatsmyaibo" target="azaza_oazaza" />
+    <edge source="never_noob" target="azaza_oazaza" />
+    <edge source="never_noob" target="whataboutmydynamite" />
+    <edge source="Stoodius" target="fib16" />
+    <edge source="Stoodius" target="ir0nli0nzi0n" />
+    <edge source="Stoodius" target="Jmstutman" />
+    <edge source="Stoodius" target="_stock_bot_" />
+    <edge source="IAmNotYourBoss" target="Andyle604" />
+    <edge source="iJeff" target="Andyle604" />
+    <edge source="viperabyss" target="bceagle411" />
+    <edge source="anonagent" target="TheMysteryBlueFlame" />
+    <edge source="anonagent" target="NotADamsel" />
+    <edge source="CommunismIsLove" target="subiklim" />
+    <edge source="hiphoprising" target="throwawaystockpaa" />
+    <edge source="hiphoprising" target="Y3808" />
+    <edge source="elcalrissian" target="azaza_oazaza" />
+    <edge source="ex_nihilo" target="stolenshamrock" />
+    <edge source="ex_nihilo" target="fsnotsurewhatdo" />
+    <edge source="sausalitoturkeyface" target="M0neyTrees" />
+    <edge source="sausalitoturkeyface" target="ILOLyouLOLweallLOLOL" />
+    <edge source="CATHOLIC_EXTREMIST" target="ehduuuu" />
+    <edge source="antiproton" target="HansMannibus" />
+    <edge source="antiproton" target="miketeeeveee" />
+    <edge source="whataboutmydynamite" target="azaza_oazaza" />
+    <edge source="ILOLyouLOLweallLOLOL" target="ryanmercer" />
+    <edge source="WizardOfNomaha" target="MichaelLuciusJulian" />
+    <edge source="Johnny182" target="jbilsten" />
+    <edge source="Atheists_Are_Annoyin" target="firechill2004" />
+    <edge source="stockark" target="AriSparkz" />
+    <edge source="klaiere" target="HaiKarate" />
+    <edge source="shrimpy1" target="s54b32dd" />
+    <edge source="shrimpy1" target="ryanmercer" />
+    <edge source="ir0nli0nzi0n" target="-Chatsky-" />
+    <edge source="ir0nli0nzi0n" target="Jmstutman" />
+    <edge source="ir0nli0nzi0n" target="_stock_bot_" />
+    <edge source="nckmiz" target="ObservationalHumor" />
+    <edge source="k4f123" target="SGCleveland" />
+    <edge source="accountdota2" target="MichaelLuciusJulian" />
+    <edge source="Carlsinoc" target="travistee" />
+    <edge source="Carlsinoc" target="sarcasticrodent" />
+    <edge source="BigSlowTarget" target="leostotch" />
+    <edge source="cantankerousoldgeezr" target="stolenshamrock" />
+    <edge source="ecography" target="Kim-Jong-Skill" />
+    <edge source="TheMysteryBlueFlame" target="furybuilt" />
+    <edge source="TheMysteryBlueFlame" target="megablast" />
+    <edge source="lvl99weedle" target="backspread" />
+    <edge source="Andyle604" target="Mokumer" />
+    <edge source="Andyle604" target="humans_nature_1" />
+    <edge source="Andyle604" target="aPotOfJam" />
+    <edge source="Interstate75" target="theinvestingblog" />
+    <edge source="guptron" target="HansMannibus" />
+    <edge source="guptron" target="HarrisonGourd" />
+    <edge source="azaza_oazaza" target="Terrierpike" />
+    <edge source="azaza_oazaza" target="2pactopus" />
+    <edge source="ryanmercer" target="s54b32dd" />
+    <edge source="Makxo" target="stolenshamrock" />
+    <edge source="vulturevolt" target="ehduuuu" />
+    <edge source="hornstien" target="DGW" />
+    <edge source="hornstien" target="yuckyucky" />
+    <edge source="hornstien" target="ericN" />
+    <edge source="hornstien" target="dza76wutang" />
+    <edge source="AriSparkz" target="thefullernator" />
+    <edge source="miketeeeveee" target="HansMannibus" />
+    <edge source="miketeeeveee" target="BryJack" />
+    <edge source="stolenshamrock" target="fredtobik" />
+    <edge source="stolenshamrock" target="Y3808" />
+    <edge source="stolenshamrock" target="chaosandfury84" />
+    <edge source="jbilsten" target="jazzyzaz" />
+    <edge source="Kim-Jong-Skill" target="TheScotchEngineer" />
+    <edge source="alisonstone" target="DabberErrl" />
+    <edge source="cunty_cuntington" target="_stock_bot_" />
+    <edge source="Points_To_You" target="Prettyniceguytoo" />
+    <edge source="KEN_JAMES_bitch" target="LiveLongAndFI" />
+    <edge source="greenlamp90" target="_Cream_Corn_" />
+    <edge source="BryJack" target="HansMannibus" />
+    <edge source="bradfromearth" target="chaosandfury84" />
+    <edge source="ObservationalHumor" target="HarrisonGourd" />
+    <edge source="HarrisonGourd" target="HansMannibus" />
+    <edge source="Y3808" target="Stockguy777" />
+    <edge source="Jmstutman" target="_stock_bot_" />
+    <edge source="fsnotsurewhatdo" target="Countdown216" />
+    <edge source="markf298" target="HansMannibus" />
+  </graph>
+</graphml>
