@@ -12,5 +12,5 @@ In Network_creation.ipynb we create the network for each company, considering li
 In Experiments_code.ipynb there is the code with the definition of the ABM and both its calibration and validation. Moreover there are comparisons with an ODE SIS and a SIS on network without trust. 
 
 Data:
-  - apple_sentiment_series.json, amazon_sentiment_series.json, google_sentiment_series.json are the file containing the percentage of positive and negative posts for each week.
+  - apple_sentiment_series.json, amazon_sentiment_series.json, google_sentiment_series.json are the file containing the percentage of positive and negative posts for each week. In the Data folder there is only a sample oh this data, specifically data about amazon. The remaining part of data is available upon request. 
   - apple_network_5_months_right_sentiment.graphml, amazon_network_5_months_right_sentiment.graphml, google_network_5_months_right_sentiment.graphml are the files containing the networks with nodes initialized with positive or negative sentiment.
